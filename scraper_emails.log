@@ -1,0 +1,788 @@
+2026-06-15 23:53:32,935 [INFO] Hoteles a procesar: 213
+2026-06-15 23:53:32,935 [INFO] [1/213] Hotel Caribe Plaza Barranquilla (Barranquilla) → https://hotelcaribeplazabarranquilla.com/
+2026-06-15 23:53:35,814 [INFO]   ✅ Email encontrado: hotelcaribeplazabquilla@gmail.com
+2026-06-15 23:53:38,581 [INFO] [2/213] Hotel Movich Buró 51 (Barranquilla) → https://www.movichhotels.com/barranquilla
+2026-06-15 23:53:38,582 [INFO]   ❌ No se encontró email
+2026-06-15 23:53:41,291 [INFO] [3/213] Sky Collection Hotel Barranquilla (Barranquilla) → https://hotelskycollection.com/
+2026-06-15 23:53:46,370 [INFO]   ✅ Email encontrado: reservas@hotelskycollection.com
+2026-06-15 23:53:49,120 [INFO] [4/213] Hotel BH Barranquilla (Barranquilla) → https://www.bhhoteles.com/bh-barranquilla
+2026-06-15 23:53:49,751 [INFO]   ❌ No se encontró email
+2026-06-15 23:53:51,895 [INFO] [5/213] Hotel Casa Paraíso (Barranquilla) → http://hotelcasaparaiso.com/
+2026-06-15 23:53:53,265 [INFO]   ✅ Email encontrado: contacto@hotelcasaparaiso.com
+2026-06-15 23:53:56,713 [INFO] [6/213] Hotel Ayenda Skall 1319 (Barranquilla) → https://ayenda.com/co/hoteles/barranquilla/ayenda-1319-skall?utm_source=google_business&utm_medium=organic
+2026-06-15 23:53:56,715 [INFO]   ❌ No se encontró email
+2026-06-15 23:53:59,911 [INFO] [7/213] Hotel Yivinaca (Barranquilla) → http://www.hotelyivinaca.com/
+2026-06-15 23:54:04,719 [INFO]   ❌ No se encontró email
+2026-06-15 23:54:07,853 [INFO] [8/213] Hotel Aquarius (Barranquilla) → https://engine.lobbypms.com/hotel-aquarius
+2026-06-15 23:54:07,853 [INFO]   ❌ No se encontró email
+2026-06-15 23:54:10,402 [INFO] [9/213] Ayenda Hotel 1309 Villa Dilia (Barranquilla) → https://ayenda.com/co/hoteles/barranquilla/ayenda-1309-villa-dilia??utm_source=google_business&utm_medium=organic
+2026-06-15 23:54:10,402 [INFO]   ❌ No se encontró email
+2026-06-15 23:54:12,419 [INFO] [10/213] ESTELAR en Alto Prado Hotel (Barranquilla) → https://www.estelarenaltoprado.com/?utm_source=google&utm_medium=organic&utm_campaign=GoogleMyBusiness&utm_content=AltoPrado&partner=6458
+2026-06-15 23:54:15,275 [INFO]   ✅ Email encontrado: reservas@hotelesestelar.com
+2026-06-15 23:54:18,299 [INFO] [11/213] Hotel Genova (Barranquilla) → http://hotelgenova.com.co/
+2026-06-15 23:54:22,457 [INFO]   ❌ No se encontró email
+2026-06-15 23:54:24,655 [INFO] [12/213] Hotel Don Fermin (Barranquilla) → https://www.booking.com/hotel/co/don-fermin.es.html?aid=356980&label=gog235jc-10CAsoMkIKZG9uLWZlcm1pbkgKWANoMogBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC_JSZyAbAAgHSAiQxNjI0MzViYy03Y2RiLTRkMDktODRhNS0zNDkxNGNmZmM3ZTfYAgHgAgE&sid=cee95cdcbb4c9f34b13912ebf81eb256&all_sr_blocks=1329180002_406081481_1_42_0,1329180002_406081481_1_42_0&checkin=2025-11-02&checkout=2025-11-03&dest_id=-578007&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=1329180002_406081481_1_42_0,1329180002_406081481_1_42_0&hpos=1&matching_block_id=1329180002_406081481_1_42_0&no_rooms=2&req_adults=2&req_children=0&room1=A&room2=A&sb_price_type=total&sr_order=popularity&sr_pri_blocks=1329180002_406081481_1_42_0__4455000,1329180002_406081481_1_42_0__4455000&srepoch=1762020128&srpvid=2b7311ebb3fff49bbb8a1a46b0aecb71&type=total&ucfs=1&
+2026-06-15 23:54:24,656 [INFO]   ❌ No se encontró email
+2026-06-15 23:54:26,816 [INFO] [13/213] HOTEL GENOVA PRADO BED & BREAKFAST (Barranquilla) → https://hotelgenova.com.co/prado/contacto/?lang=en
+2026-06-15 23:54:30,119 [INFO]   ✅ Email encontrado: reservascentro@hotelgenova.com.co, eventos@hotelgenova.com.co
+2026-06-15 23:54:32,519 [INFO] [14/213] Hotel Continental Express (Barranquilla) → http://www.hotelescontinental.co/
+2026-06-15 23:54:34,424 [INFO]   ❌ No se encontró email
+2026-06-15 23:54:37,194 [INFO] [15/213] Aparta Hotel Mediterraneo (Barranquilla) → https://linktr.ee/mediterraneo.in
+2026-06-15 23:54:44,021 [INFO]   ❌ No se encontró email
+2026-06-15 23:54:45,850 [INFO] [16/213] Hotel Oxford Barranquilla (Barranquilla) → http://www.hoteloxfordbarranquilla.com/
+2026-06-15 23:54:50,391 [INFO]   ✅ Email encontrado: recepcion@hoteloxfordbarranquilla.com
+2026-06-15 23:54:53,557 [INFO] [17/213] Hotel Casa Colonial (Barranquilla) → https://hotelcasacolonialbarranquilla.com/
+2026-06-15 23:54:55,624 [INFO]   ✅ Email encontrado: hotelcasacolonial@hotmail.es
+2026-06-15 23:54:58,908 [INFO] [18/213] Hotel Plaza de Ángel 74 (Barranquilla) → https://www.hotelplazadeangel74.com/
+2026-06-15 23:54:59,822 [INFO]   ✅ Email encontrado: gerenciacomercial@hotelplazadeangel74.com, applazadeangel74@gmail.com, contabilidad@hotelplazadeangel74.com
+2026-06-15 23:55:03,244 [INFO] [19/213] Hotel Catedral Inn B SAS (Barranquilla) → http://www.catedralinn.com/
+2026-06-15 23:55:04,712 [INFO]   ❌ No se encontró email
+2026-06-15 23:55:07,501 [INFO] [20/213] Hotel Majestic (Barranquilla) → https://hotelmajestic.getawayrentals.info/
+2026-06-15 23:55:13,327 [INFO]   ❌ No se encontró email
+2026-06-15 23:55:16,221 [INFO] [21/213] Hotel Dasanto (Barranquilla) → https://hoteldasanto.com/
+2026-06-15 23:55:17,276 [INFO]   ❌ No se encontró email
+2026-06-15 23:55:19,139 [INFO] [22/213] Country International Hotel (Barranquilla) → https://www.countryinthotel.com/
+2026-06-15 23:55:20,092 [INFO]   ✅ Email encontrado: reservas@hotelcountry.co, comercial@hotelcountry.co
+2026-06-15 23:55:22,706 [INFO] [23/213] HOTEL INTERSUITES (Barranquilla) → http://www.intersuiteshotel.com/
+2026-06-15 23:55:26,645 [INFO]   ❌ No se encontró email
+2026-06-15 23:55:29,738 [INFO] [24/213] Hotel Casa Ballesteros (Barranquilla) → http://www.hotelcasaballesteros.com/
+2026-06-15 23:55:31,707 [INFO]   ✅ Email encontrado: reservas@hotelcasaballesteros.com
+2026-06-15 23:55:34,797 [INFO] [25/213] Hotel Costa Linda Barranquilla (Barranquilla) → https://costalindahotel.com/
+2026-06-15 23:55:35,524 [INFO]   ❌ No se encontró email
+2026-06-15 23:55:37,192 [INFO] [26/213] Hotel El Prado (Barranquilla) → http://hotelelpradobarranquilla.com/
+2026-06-15 23:55:38,065 [INFO]   ✅ Email encontrado: alojamiento@hotelelpradobarranquilla.com, reservas@hotelelpradobarranquilla.com
+2026-06-15 23:55:39,587 [INFO] [27/213] Hotel Casa Boston Inn by Finerh (Barranquilla) → https://www.hotelesboston58.com/
+2026-06-15 23:55:44,451 [INFO]   ❌ No se encontró email
+2026-06-15 23:55:46,910 [INFO] [28/213] Radisson Hotel Diamond Barranquilla (Barranquilla) → https://www.choicehotels.com/colombia/barranquilla/radisson-hotels/cb009?mc=llgoxxpx
+2026-06-15 23:55:46,911 [INFO]   ❌ No se encontró email
+2026-06-15 23:55:49,597 [INFO] [29/213] Hotel Costa Mar (Barranquilla) → http://hotelcostamar.co/
+2026-06-15 23:55:57,203 [INFO]   ❌ No se encontró email
+2026-06-15 23:55:59,961 [INFO] [30/213] Hotel Windsor Barranquilla (Barranquilla) → http://www.hotelwindsor.com.co/
+2026-06-15 23:56:17,327 [INFO]   ❌ No se encontró email
+2026-06-15 23:56:20,051 [INFO] [31/213] Hotel malecon del río (Barranquilla) → https://engine.ayenda.co/hotel-malecon-del-rio
+2026-06-15 23:56:20,653 [INFO]   ❌ No se encontró email
+2026-06-15 23:56:23,303 [INFO] [32/213] Hotel Casa Rueda (Barranquilla) → https://hotelcasarueda.com/
+2026-06-15 23:56:43,546 [INFO]   ❌ No se encontró email
+2026-06-15 23:56:46,084 [INFO] [33/213] Ribai Hotels Barranquilla (Barranquilla) → http://www.ribaihotels.com/
+2026-06-15 23:56:46,084 [INFO]   ❌ No se encontró email
+2026-06-15 23:56:49,410 [INFO] [34/213] Hotel rivera del mar (Barranquilla) → http://www.hotelriveradelmar.com/
+2026-06-15 23:56:53,038 [INFO]   ❌ No se encontró email
+2026-06-15 23:56:55,802 [INFO] [35/213] Hotel Dorado Plaza Alto Prado (Barranquilla) → https://www.doradoplaza.com/hoteles/hotel-dorado-alto-prado
+2026-06-15 23:56:59,578 [INFO]   ❌ No se encontró email
+2026-06-15 23:57:01,247 [INFO] [36/213] Hotel Dorado BAQ (Barranquilla) → https://sys.hosroom.com/booking/189-dorado-barranquilla
+2026-06-15 23:57:02,128 [INFO]   ✅ Email encontrado: hotelsuitedoradoeventos@gmail.com
+2026-06-15 23:57:05,600 [INFO] [37/213] Hotel Atrium Plaza (Barranquilla) → http://www.hotelatriumplaza.com/
+2026-06-15 23:57:07,427 [INFO]   ✅ Email encontrado: ecommerce@hotelatriumplaza.com
+2026-06-15 23:57:10,431 [INFO] [38/213] Hotel Sun River (Barranquilla) → http://www.hotelsunriver.com/
+2026-06-15 23:57:11,302 [INFO]   ❌ No se encontró email
+2026-06-15 23:57:13,739 [INFO] [39/213] Hotel Sites Barranquilla (Barranquilla) → https://www.sitesbarranquilla.com/?partner=8975&utm_source=google&utm_medium=mybusiness
+2026-06-15 23:57:18,458 [INFO]   ✅ Email encontrado: reservasbaq@sitesgroup.co
+2026-06-15 23:57:20,324 [INFO] [40/213] Hotel Dann Carlton Barranquilla (Barranquilla) → http://www.danncarltonbaq.co/
+2026-06-15 23:57:21,355 [INFO]   ❌ No se encontró email
+2026-06-15 23:57:24,268 [INFO] [41/213] Hotel Continental Plaza (Barranquilla) → https://www.hotelcontinentalplaza.com/
+2026-06-15 23:57:25,034 [INFO]   ❌ No se encontró email
+2026-06-15 23:57:26,689 [INFO] [42/213] Hotel Plaza 43 (Barranquilla) → https://www.hotelplaza43.com.co/
+2026-06-15 23:57:27,432 [INFO]   ❌ No se encontró email
+2026-06-15 23:57:30,314 [INFO] [43/213] Hotel Colonial Inn (Barranquilla) → https://hotelcolonialinn-colombia.com-colombia.com/
+2026-06-15 23:57:31,155 [INFO]   ❌ No se encontró email
+2026-06-15 23:57:33,420 [INFO] [44/213] Hotel Washington Plaza (Barranquilla) → http://washingtonplaza.co/
+2026-06-15 23:57:35,540 [INFO]   ✅ Email encontrado: reservas@washingtonplaza.co
+2026-06-15 23:57:37,267 [INFO] [45/213] Barranquilla Marriott Hotel (Barranquilla) → https://www.marriott.com/en-us/hotels/baqmc-barranquilla-marriott-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+2026-06-15 23:57:37,943 [INFO]   ❌ No se encontró email
+2026-06-15 23:57:40,566 [INFO] [46/213] Hotel Med Suites 94 Barranquilla (Barranquilla) → https://direct-book.com/properties/DirectHotelMedSuites94?locale=en&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=COP&checkInDate=2025-05-27&checkOutDate=2025-05-28&trackPage=yes
+2026-06-15 23:57:40,889 [INFO]   ❌ No se encontró email
+2026-06-15 23:57:43,452 [INFO] [47/213] Hotel Marcarí (Barranquilla) → https://direct-book.com/properties/HOTELMEDBARRANQUILLACENTRODIRECT?locale=en&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=COP&checkInDate=2025-03-31&checkOutDate=2025-04-01&trackPage=yes
+2026-06-15 23:57:43,513 [INFO]   ❌ No se encontró email
+2026-06-15 23:57:46,306 [INFO] [48/213] Hotel Charthon (Barranquilla) → https://hotelcharthon.com/
+2026-06-15 23:57:50,663 [INFO]   ✅ Email encontrado: comercialhotelcharthon@gmail.com
+2026-06-15 23:57:54,150 [INFO] [49/213] Hotel Boutique M (Barranquilla) → http://www.hotelboutiquem.com/
+2026-06-15 23:57:56,620 [INFO]   ❌ No se encontró email
+2026-06-15 23:57:59,429 [INFO] [50/213] Hotel Puerta de Oro (Barranquilla) → http://www.hotelpuertadeorobaq.com/
+2026-06-15 23:58:03,120 [INFO]   ❌ No se encontró email
+2026-06-15 23:58:05,784 [INFO] [51/213] Hotel Faranda Express Puerta del Sol Barranquilla, a member of Radisson Individuals (Barranquilla) → https://www.farandahotels.com/hotel/hotel-puerta-del-sol-barranquilla-by-faranda-express-mc-bwfrxxfh-atrk-bwfrxxfh-fr-fh-cb019
+2026-06-15 23:58:05,784 [INFO]   ❌ No se encontró email
+2026-06-15 23:58:09,066 [INFO] [52/213] Hotel Granada Inn Barranquilla (Barranquilla) → https://www.hotelgranadainn.com.co/granadainn/index.html
+2026-06-15 23:58:10,053 [INFO]   ❌ No se encontró email
+2026-06-15 23:58:12,229 [INFO] [53/213] Amari Living Suites (Barranquilla) → https://amarilivingsuite.com/
+2026-06-15 23:58:13,129 [INFO]   ❌ No se encontró email
+2026-06-15 23:58:15,393 [INFO] [54/213] Apartahotel Torre Del Prado (Barranquilla) → http://torredelprado.com/
+2026-06-15 23:58:18,368 [INFO]   ✅ Email encontrado: mercadeo@torredelprado.com
+2026-06-15 23:58:20,006 [INFO] [55/213] Hotel Monterrey (Barranquilla) → http://hotelmonterrey.co/
+2026-06-15 23:58:21,324 [INFO]   ✅ Email encontrado: recepcion@hotelmonterrey.co
+2026-06-15 23:58:23,412 [INFO] [56/213] Radisson Bogota Metrotel (Bogota) → https://www.radissonbogotametrotel.com/es
+2026-06-15 23:58:23,948 [INFO]   ✅ Email encontrado: reservas@metrotel74.com
+2026-06-15 23:58:27,403 [INFO] [57/213] Holiday Inn Bogotá Aeropuerto (Bogota) → https://www.ihg.com/holidayinn/hotels/us/en/bogota/bogap/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-CO-_-BOGAP
+2026-06-15 23:58:28,149 [INFO]   ❌ No se encontró email
+2026-06-15 23:58:30,009 [INFO] [58/213] Hotel Grand Park (Bogota) → http://hotelgrandpark.com.co/?partner=13813&utm_source=google&utm_medium=organic&utm_campaign=MyBusiness
+2026-06-15 23:58:30,490 [INFO]   ❌ No se encontró email
+2026-06-15 23:58:32,654 [INFO] [59/213] Hotel Silver Javeriana By Hospedium Bogotá (Bogota) → https://hotelsilverbogota.com/
+2026-06-15 23:58:34,494 [INFO]   ✅ Email encontrado: reservas@hotelsilverbogota.com
+2026-06-15 23:58:37,963 [INFO] [60/213] Hotel Oceanía Bogotá - Museo (Bogota) → http://hoteloceaniabogota.com/
+2026-06-15 23:58:39,074 [INFO]   ❌ No se encontró email
+2026-06-15 23:58:41,409 [INFO] [61/213] Hotel Regina (Bogota) → https://www.hotelesgrace.com/hotel-regina-2/
+2026-06-15 23:58:42,283 [INFO]   ❌ No se encontró email
+2026-06-15 23:58:44,704 [INFO] [62/213] Viajero Bogota Hostel & Spa (Bogota) → https://www.viajerohostels.com/es/destinos-colombia/bogota/
+2026-06-15 23:58:45,851 [INFO]   ✅ Email encontrado: bogota@viajerohostels.com, marketing@viajerohostels.com
+2026-06-15 23:58:47,947 [INFO] [63/213] Hotel La Estación (Bogota) → https://hotellaestacion.com.co/
+2026-06-15 23:58:49,216 [INFO]   ❌ No se encontró email
+2026-06-15 23:58:51,797 [INFO] [64/213] Hotel Santa Barbara Real (Bogota) → https://hotelsantabarbarareal.com/
+2026-06-15 23:58:55,632 [INFO]   ❌ No se encontró email
+2026-06-15 23:58:59,085 [INFO] [65/213] Eutopiq Hotel (Medellin) → https://www.eutopiq.com/es/index.html
+2026-06-15 23:59:01,769 [INFO]   ❌ No se encontró email
+2026-06-15 23:59:04,155 [INFO] [66/213] Hotel Vivre (Medellin) → http://www.hotelvivre.com/
+2026-06-15 23:59:07,755 [INFO]   ❌ No se encontró email
+2026-06-15 23:59:09,990 [INFO] [67/213] HOTEL CIVITAS MEDELLIN (Medellin) → https://hotelcivitasmedellin.com/
+2026-06-15 23:59:10,744 [INFO]   ❌ No se encontró email
+2026-06-15 23:59:13,455 [INFO] [68/213] Hotel Greenview Medellin (Medellin) → https://www.greenviewmedellin.com/
+2026-06-15 23:59:19,081 [INFO]   ✅ Email encontrado: comercial@greenviewmedellin.com, comercial@hotelgreenviewmedellin.com, comercial@hoteltaybo.com, reservas@greenviewmedellin.com
+2026-06-15 23:59:21,223 [INFO] [69/213] Hostal Pura Vida La 70 (Medellin) → https://engine.lobbypms.com/hostal-pura-vida-la-70
+2026-06-15 23:59:21,223 [INFO]   ❌ No se encontró email
+2026-06-15 23:59:23,723 [INFO] [70/213] History Center Hotel (Medellin) → https://sys.hosroom.com/booking/268-history-center
+2026-06-15 23:59:24,155 [INFO]   ✅ Email encontrado: historycenterhotel@gmail.com
+2026-06-15 23:59:26,817 [INFO] [71/213] Aura Hotel (Medellin) → https://aura.ibnhotel.com/
+2026-06-15 23:59:29,195 [INFO]   ❌ No se encontró email
+2026-06-15 23:59:31,473 [INFO] [72/213] Hotel The Morgana Poblado Suites (Medellin) → https://www.hotelpobladosuites.com/?partner=6641
+2026-06-15 23:59:33,185 [INFO]   ✅ Email encontrado: reservas@hotelpobladosuites.com
+2026-06-15 23:59:35,796 [INFO] [73/213] Laureles Guest House (LGH Hotel & Coliving) (Medellin) → http://www.laurelesguesthouse.com/
+2026-06-15 23:59:36,575 [INFO]   ❌ No se encontró email
+2026-06-15 23:59:38,782 [INFO] [74/213] Mandala hotel Botero (Medellin) → https://mandalahotelmedellin.com/botero/
+2026-06-15 23:59:41,318 [INFO]   ✅ Email encontrado: pqrs@gychotels.com, recepcionmandalabotero@gychotels.com, recepcionmandalabelen@gychotels.com, recepcionmandalacentro@gychotels.com
+2026-06-15 23:59:43,055 [INFO] [75/213] Hotel Med Colombia (Medellin) → https://direct-book.com/properties/HOTELMEDCOLOMBIA2DIRECT?locale=en&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=COP&checkInDate=2025-03-11&checkOutDate=2025-03-12&trackPage=yes
+2026-06-15 23:59:45,974 [INFO]   ❌ No se encontró email
+2026-06-15 23:59:48,727 [INFO] [76/213] Hotel Colombia Avenida (Medellin) → https://engine.lobbypms.com/hotel-colombia-avenida
+2026-06-15 23:59:48,727 [INFO]   ❌ No se encontró email
+2026-06-15 23:59:52,197 [INFO] [77/213] 574 Hotel (Medellin) → https://574hotel.com/
+2026-06-15 23:59:53,538 [INFO]   ✅ Email encontrado: reservations@574hotel.com
+2026-06-15 23:59:56,339 [INFO] [78/213] Moore 45 Hotel (Medellin) → https://engine.lobbypms.com/moore-45
+2026-06-15 23:59:56,340 [INFO]   ❌ No se encontró email
+2026-06-15 23:59:58,684 [INFO] [79/213] INNTU Hotel (Medellin) → https://inntuhotel.com/
+2026-06-16 00:00:02,267 [INFO]   ✅ Email encontrado: filler@godaddy.com
+2026-06-16 00:00:04,405 [INFO] [80/213] Marquee Hotel (Medellin) → https://marqueemedellin.com/
+2026-06-16 00:00:08,345 [INFO]   ❌ No se encontró email
+2026-06-16 00:00:11,140 [INFO] [81/213] Hotel Boutique Laureles Medellin (HBL) (Medellin) → https://book.omnibees.com/hotel/12737
+2026-06-16 00:00:20,509 [INFO]   ❌ No se encontró email
+2026-06-16 00:00:23,805 [INFO] [82/213] Mandala Hotel Centro (Medellin) → http://www.mandalahotelmedellin.com/
+2026-06-16 00:00:25,608 [INFO]   ✅ Email encontrado: pqrs@gychotels.com, recepcionmandalabotero@gychotels.com, recepcionmandalabelen@gychotels.com, recepcionmandalacentro@gychotels.com
+2026-06-16 00:00:27,912 [INFO] [83/213] Hotel Torre Poblado (Medellin) → http://www.torrepoblado.com/?utm_medium=organic&utm_source=google&utm_campaign=google-my-business&utm_term=google-local
+2026-06-16 00:00:41,624 [INFO]   ❌ No se encontró email
+2026-06-16 00:00:43,589 [INFO] [84/213] Hotel Casa Malibu (Medellin) → http://www.hotelcasamalibu.com.co/
+2026-06-16 00:00:44,783 [INFO]   ❌ No se encontró email
+2026-06-16 00:00:47,268 [INFO] [85/213] Hotel Poblado Alejandria (Medellin) → http://hotelpobladoalejandria.com/
+2026-06-16 00:00:51,052 [INFO]   ❌ No se encontró email
+2026-06-16 00:00:54,424 [INFO] [86/213] Hotel Dann Carlton Medellín (Medellin) → https://www.danncarlton.com/
+2026-06-16 00:00:55,926 [INFO]   ❌ No se encontró email
+2026-06-16 00:00:57,898 [INFO] [87/213] Hotel El Zarzo Medellín (Medellin) → https://hotelelzarzo.com/
+2026-06-16 00:00:58,632 [INFO]   ❌ No se encontró email
+2026-06-16 00:01:01,337 [INFO] [88/213] Hotel Panorama Urban (Medellin) → https://sys.hosroom.com/booking/345-hotel-panorama-urban
+2026-06-16 00:01:01,792 [INFO]   ✅ Email encontrado: recepcionpanoramaurban@gmail.com
+2026-06-16 00:01:04,533 [INFO] [89/213] Hotel Foresta (Medellin) → http://www.forestahotel.com.co/
+2026-06-16 00:01:12,026 [INFO]   ✅ Email encontrado: reservas@forestahotel.com.co
+2026-06-16 00:01:15,105 [INFO] [90/213] Hotel Praga Medellin (Medellin) → http://hotelpragamedellin.com/
+2026-06-16 00:01:21,086 [INFO]   ❌ No se encontró email
+2026-06-16 00:01:23,380 [INFO] [91/213] Hotel beminimal (Medellin) → https://beminimal.co/beminimal-parques/
+2026-06-16 00:01:25,069 [INFO]   ✅ Email encontrado: booking_jardines@beminimal.co, booking@beminimal.co
+2026-06-16 00:01:27,486 [INFO] [92/213] HOTEL PARK CARIBE (Medellin) → https://in-travel.co/st_hotel/hotel-park-caribe/
+2026-06-16 00:01:48,597 [INFO]   ❌ No se encontró email
+2026-06-16 00:01:50,397 [INFO] [93/213] 4 Sur Hotel (Medellin) → https://4surhotel.com/
+2026-06-16 00:01:51,907 [INFO]   ✅ Email encontrado: reservas@4surhotel.com, info@4surhotel.com
+2026-06-16 00:01:55,031 [INFO] [94/213] Gallery Hotel Medellín (Medellin) → https://www.galleryhotel.co/
+2026-06-16 00:01:56,142 [INFO]   ❌ No se encontró email
+2026-06-16 00:01:59,007 [INFO] [95/213] EcoHub Hotel Medellín (Medellin) → https://www.ecohubhotelmedellin.com/
+2026-06-16 00:01:59,952 [INFO]   ❌ No se encontró email
+2026-06-16 00:02:02,862 [INFO] [96/213] ibis Medellin (Medellin) → https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=7381&merchantid=seo-maps-CO-7381&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps
+2026-06-16 00:02:06,051 [INFO]   ✅ Email encontrado: ibis.medellin@accor.com
+2026-06-16 00:02:08,296 [INFO] [97/213] Hotel Boutique Laureles Home (Medellin) → https://engine.lobbypms.com/hotelboutiquelaureleshome
+2026-06-16 00:02:08,297 [INFO]   ❌ No se encontró email
+2026-06-16 00:02:10,120 [INFO] [98/213] Hotel Alcaraván (Medellin) → http://www.hotelalcaravan.com/
+2026-06-16 00:02:13,922 [INFO]   ❌ No se encontró email
+2026-06-16 00:02:15,638 [INFO] [99/213] Blues Suites Medellín (Medellin) → https://bluessuitesmedellin.com/
+2026-06-16 00:02:16,437 [INFO]   ✅ Email encontrado: info@bluessuitesmedellin.com
+2026-06-16 00:02:18,281 [INFO] [100/213] La Playa Hotel Boutique Medellín (Medellin) → https://laplayahotel.co/
+2026-06-16 00:02:27,839 [INFO]   ✅ Email encontrado: laplayahotelmedellin@gmail.com
+2026-06-16 00:02:29,466 [INFO] [101/213] Heiss Hotel (Medellin) → https://heisshotel.com/
+2026-06-16 00:02:31,880 [INFO]   ✅ Email encontrado: frontdesk@heiss.com.co
+2026-06-16 00:02:33,893 [INFO] [102/213] Rock Hostel Medellín (Medellin) → https://linktr.ee/rockhostel
+2026-06-16 00:02:39,942 [INFO]   ❌ No se encontró email
+2026-06-16 00:02:42,187 [INFO] [103/213] Natural Hotel (Medellin) → https://sys.hosroom.com/booking/420-natural-hotel
+2026-06-16 00:02:42,668 [INFO]   ✅ Email encontrado: hotelnatural2025@gmail.com
+2026-06-16 00:02:45,364 [INFO] [104/213] Hotel Dorado La 70 (Medellin) → http://hoteldoradola70.com/
+2026-06-16 00:02:45,804 [INFO]   ❌ No se encontró email
+2026-06-16 00:02:47,813 [INFO] [105/213] Hotel Conquistadores Medellin (Medellin) → https://ayenda.com/co/hoteles/medellin/ayenda-1248-conquistadores?utm_source=google_business&utm_medium=organic
+2026-06-16 00:02:47,813 [INFO]   ❌ No se encontró email
+2026-06-16 00:02:51,156 [INFO] [106/213] HOTEL BAMBU MILLA DE ORO (Medellin) → http://www.bambumilladeoro.com/
+2026-06-16 00:02:52,230 [INFO]   ❌ No se encontró email
+2026-06-16 00:02:54,021 [INFO] [107/213] TERRA BIOHOTEL MEDELLÍN (Medellin) → https://www.terrabiohotel.com/
+2026-06-16 00:02:55,139 [INFO]   ❌ No se encontró email
+2026-06-16 00:02:58,181 [INFO] [108/213] Hotel Dix (Medellin) → http://www.dixhotel.co/
+2026-06-16 00:02:58,705 [INFO]   ❌ No se encontró email
+2026-06-16 00:03:01,438 [INFO] [109/213] Seven Inn Hotel (Medellin) → http://www.seveninnhotel.com/
+2026-06-16 00:03:04,762 [INFO]   ✅ Email encontrado: recepcion@seveninnhotel.com, gerencia@seveninnhotel.com
+2026-06-16 00:03:07,702 [INFO] [110/213] Hotel 47 Medellin Street (Medellin) → http://www.medellin47.com/
+2026-06-16 00:03:08,457 [INFO]   ❌ No se encontró email
+2026-06-16 00:03:11,338 [INFO] [111/213] Hashtag 98 Hotel By Jalo (Medellin) → https://hashtag98.com.co/
+2026-06-16 00:03:32,540 [INFO]   ❌ No se encontró email
+2026-06-16 00:03:35,405 [INFO] [112/213] Hotel Central Plaza (Medellin) → http://www.hotelcentralplazamedellin.com/
+2026-06-16 00:03:42,161 [INFO]   ❌ No se encontró email
+2026-06-16 00:03:44,062 [INFO] [113/213] Hotel Panorama (Medellin) → https://panoramahotel.co/
+2026-06-16 00:04:05,122 [INFO]   ❌ No se encontró email
+2026-06-16 00:04:07,421 [INFO] [114/213] Hotel Playa Itagui (Medellin) → https://engine.lobbypms.com/hotel-playa-sur-itagui
+2026-06-16 00:04:07,421 [INFO]   ❌ No se encontró email
+2026-06-16 00:04:10,342 [INFO] [115/213] Hotel Prince Plaza (Medellin) → https://sys.hosroom.com/booking/102-hotel-prince-plaza
+2026-06-16 00:04:10,783 [INFO]   ✅ Email encontrado: infoprinceplaza@gmail.com
+2026-06-16 00:04:14,147 [INFO] [116/213] Primavera Hotel (Medellin) → https://www.booking.com/hotel/co/primavera-zero.es.html?label=gen173nr-1BCAsoMkIOcHJpbWF2ZXJhLXplcm9IM1gEaDKIAQGYAQq4ARjIAQzYAQHoAQGIAgGoAgS4AuKt2a8GwAIB0gIkZWMyMjZmMGEtMWMwNS00ODU5LWI4MTYtZTU2MWQ1NmVkYTg42AIF4AIB&sid=9f6b14608d85fa780aa012a4d73e8d4d&dist=0&keep_landing=1&sb_price_type=total&type=total&
+2026-06-16 00:04:14,148 [INFO]   ❌ No se encontró email
+2026-06-16 00:04:17,304 [INFO] [117/213] Hotel Ofix (Medellin) → https://ofixhotel.com/
+2026-06-16 00:04:18,887 [INFO]   ✅ Email encontrado: hotelofix@gmail.com, reservasofixhotel@gmail.com
+2026-06-16 00:04:20,935 [INFO] [118/213] Hotel Verony La 70 - Laureles Estadio (Medellin) → https://sys.hosroom.com/booking/451-hotel-verony-70
+2026-06-16 00:04:21,386 [INFO]   ✅ Email encontrado: hotelveronyla70@gmail.com
+2026-06-16 00:04:23,994 [INFO] [119/213] Hotel Asturias Medellin (Medellin) → https://www.asturiasmedellinhotel.com/es/
+2026-06-16 00:04:27,194 [INFO]   ❌ No se encontró email
+2026-06-16 00:04:28,963 [INFO] [120/213] SUI HOTEL BOUTIQUE (Medellin) → https://www.suiposadaboutique.com/
+2026-06-16 00:04:30,924 [INFO]   ✅ Email encontrado: recepcion@suiposadaboutique.com
+2026-06-16 00:04:34,124 [INFO] [121/213] Hostal del Cielo Medellin (Medellin) → https://www.hostaldelcielo.com/es
+2026-06-16 00:04:36,745 [INFO]   ✅ Email encontrado: contact@hostaldelcielo.com, thomas@hostaldelcielo.com
+2026-06-16 00:04:39,245 [INFO] [122/213] Mythical Hotel en Laureles - Medellin. (Medellin) → https://mythicalhotel.com/
+2026-06-16 00:04:52,599 [INFO]   ❌ No se encontró email
+2026-06-16 00:04:55,254 [INFO] [123/213] Hotel Macedonia Plaza Itagui (Medellin) → https://engine.lobbypms.com/hotel-macedonia-plaza
+2026-06-16 00:04:55,254 [INFO]   ❌ No se encontró email
+2026-06-16 00:04:57,825 [INFO] [124/213] Hotel Plaza Mayor 44 - Medellin (Medellin) → https://sys.hosroom.com/booking/422-hotel-plaza-mayor-44
+2026-06-16 00:04:58,252 [INFO]   ✅ Email encontrado: infoplazamayor44@gmail.com
+2026-06-16 00:05:00,410 [INFO] [125/213] Hotel Casa Santafé (Medellin) → https://hotelcasasantafe.com/
+2026-06-16 00:05:00,983 [INFO]   ❌ No se encontró email
+2026-06-16 00:05:03,587 [INFO] [126/213] Hotel Lleras Express (Medellin) → https://llerasexpresshotel.com/
+2026-06-16 00:05:04,179 [INFO]   ✅ Email encontrado: reservas@llerasexpresshotel.com, direccioncomercialmde@gmail.com
+2026-06-16 00:05:07,413 [INFO] [127/213] Gran Hotel Medellín (Medellin) → http://www.granhotel.com.co/
+2026-06-16 00:05:08,525 [INFO]   ✅ Email encontrado: reservas@granhotel.com.co, mercadeo@granhotel.com.co
+2026-06-16 00:05:11,953 [INFO] [128/213] Hotel Lleras 10 (Medellin) → https://lleras10hotel.com/
+2026-06-16 00:05:12,639 [INFO]   ✅ Email encontrado: direccioncomercialmde@gmail.com, reservas@lleras10hotel.com
+2026-06-16 00:05:14,162 [INFO] [129/213] La Familia Hostel - Parque el Poblado (Medellin) → https://www.lafamilia-hostel.com/parque-poblado/
+2026-06-16 00:05:15,133 [INFO]   ❌ No se encontró email
+2026-06-16 00:05:17,244 [INFO] [130/213] Medellin Marriott Hotel (Medellin) → https://www.marriott.com/en-us/hotels/mdemc-medellin-marriott-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+2026-06-16 00:05:18,069 [INFO]   ❌ No se encontró email
+2026-06-16 00:05:19,590 [INFO] [131/213] Bakú Laureles Hostel (Medellin) → https://engine.lobbypms.com/baku-laureles-hostel
+2026-06-16 00:05:19,590 [INFO]   ❌ No se encontró email
+2026-06-16 00:05:22,423 [INFO] [132/213] Hotel Cool Living by Los Patios Best Hotel in Laureles (Medellin) → https://www.lospatioshb.com/cool-living
+2026-06-16 00:05:23,216 [INFO]   ❌ No se encontró email
+2026-06-16 00:05:26,471 [INFO] [133/213] Europa Suites Medellin (Medellin) → https://www.jetsetrentals.com/vacation-rentals/medellin/europa-suites-lleras-park/
+2026-06-16 00:05:30,446 [INFO]   ❌ No se encontró email
+2026-06-16 00:05:32,988 [INFO] [134/213] Hotel Bolivariana Plaza (Medellin) → http://hotelbolivarianaplaza.com/
+2026-06-16 00:05:33,394 [INFO]   ❌ No se encontró email
+2026-06-16 00:05:35,389 [INFO] [135/213] Vita Hotel Boutique (Medellin) → https://engine.lobbypms.com/vita-hotel-boutique
+2026-06-16 00:05:35,390 [INFO]   ❌ No se encontró email
+2026-06-16 00:05:38,868 [INFO] [136/213] Manila Hotel Boutique (Medellin) → http://www.manilahotelboutique.com/
+2026-06-16 00:05:40,072 [INFO]   ❌ No se encontró email
+2026-06-16 00:05:42,100 [INFO] [137/213] Apparments Hotel Medellin (Medellin) → https://appartments.com.co/
+2026-06-16 00:05:43,058 [INFO]   ❌ No se encontró email
+2026-06-16 00:05:45,902 [INFO] [138/213] Los Patios Hostel Boutique - The Best Hostel Medellin (Medellin) → http://www.lospatioshb.com/
+2026-06-16 00:05:46,055 [INFO]   ❌ No se encontró email
+2026-06-16 00:05:49,076 [INFO] [139/213] Hotel Ayenda Habana Vieja 1221 (Medellin) → https://ayenda.com/co/hoteles/medellin/ayenda-habana-vieja-1221?utm_source=google_business&utm_medium=organic
+2026-06-16 00:05:49,077 [INFO]   ❌ No se encontró email
+2026-06-16 00:05:52,562 [INFO] [140/213] Hotel Mediterráneo (CERRADO EDIFICIO TEMPORALMENTE) (Medellin) → http://www.hotelmediterraneo.com.co/
+2026-06-16 00:05:59,275 [INFO]   ❌ No se encontró email
+2026-06-16 00:06:01,036 [INFO] [141/213] Hotel Vía 45 Centro (Medellin) → https://hotelvia45centro.com/
+2026-06-16 00:06:03,344 [INFO]   ✅ Email encontrado: reservas@hotelvia45.com
+2026-06-16 00:06:05,091 [INFO] [142/213] Hotel Helene (Medellin) → https://hotelhelene.co/
+2026-06-16 00:06:07,164 [INFO]   ❌ No se encontró email
+2026-06-16 00:06:09,249 [INFO] [143/213] Hotel Laureles de Aburrá (Medellin) → https://sys.hosroom.com/booking/365-hotel-laureles-de-aburra
+2026-06-16 00:06:09,676 [INFO]   ✅ Email encontrado: hotelixc@gmail.com
+2026-06-16 00:06:12,633 [INFO] [144/213] Hotel Casa 73 Deluxe (Medellin) → https://sys.hosroom.com/booking/269-hotel-casa-73-deluxe
+2026-06-16 00:06:12,834 [INFO]   ✅ Email encontrado: managerguluse@gmail.com
+2026-06-16 00:06:15,887 [INFO] [145/213] Hampton by Hilton Barranquilla (Barranquilla) → https://www.hilton.com/en/hotels/baqhxhx-hampton-barranquilla/?SEO_id=GMB-AMER-HX-BAQHXHX&y_source=1_MTMyNjA3MzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+2026-06-16 00:06:19,853 [INFO]   ❌ No se encontró email
+2026-06-16 00:06:21,693 [INFO] [146/213] Holiday Inn Express Barranquilla Buenavista (Barranquilla) → https://www.ihg.com/holidayinnexpress/hotels/us/en/barranquilla/baqex/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-CO-_-BAQEX
+2026-06-16 00:06:25,828 [INFO]   ❌ No se encontró email
+2026-06-16 00:06:29,286 [INFO] [147/213] Faranda Collection Barranquilla, a member of Radisson Individuals (Barranquilla) → https://www.choicehotels.com/colombia/barranquilla/radisson-individuals-hotels/cb016?mc=llgoxxpx
+2026-06-16 00:06:29,287 [INFO]   ❌ No se encontró email
+2026-06-16 00:06:30,792 [INFO] [148/213] ibis Barranquilla (Barranquilla) → https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=9910&merchantid=seo-maps-CO-9910&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps
+2026-06-16 00:06:33,710 [INFO]   ✅ Email encontrado: reservas.ibisbarranquilla@accor.com
+2026-06-16 00:06:35,911 [INFO] [149/213] Howard Johnson by Wyndham Barranquilla Versalles (Barranquilla) → https://www.wyndhamhotels.com/es-xl/hojo/barranquilla-colombia/howard-johnson-hotel-versalles-barranquilla/overview?CID=LC:q68ryvg9cq3avi8:37136&iata=00093796
+2026-06-16 00:06:35,911 [INFO]   ❌ No se encontró email
+2026-06-16 00:06:38,975 [INFO] [150/213] Hilton Garden Inn Barranquilla (Barranquilla) → https://www.hilton.com/en/hotels/baqacgi-hilton-garden-inn-barranquilla/?SEO_id=GMB-AMER-GI-BAQACGI&y_source=1_MTIxNjk0OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+2026-06-16 00:06:41,542 [INFO]   ❌ No se encontró email
+2026-06-16 00:06:43,636 [INFO] [151/213] Four Points by Sheraton Barranquilla (Barranquilla) → https://www.marriott.com/en-us/hotels/baqfp-four-points-barranquilla/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+2026-06-16 00:06:44,550 [INFO]   ❌ No se encontró email
+2026-06-16 00:06:46,645 [INFO] [152/213] Crowne Plaza - Barranquilla (Barranquilla) → https://www.ihg.com/crowneplaza/hotels/us/en/barranquilla/baqbc/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-CO-_-BAQBC
+2026-06-16 00:06:53,103 [INFO]   ❌ No se encontró email
+2026-06-16 00:06:55,656 [INFO] [153/213] Ayenda 1315 Candiac (Barranquilla) → https://ayenda.com/co/hoteles/barranquilla/ayenda-1315-candiac?utm_source=google_business&utm_medium=organic
+2026-06-16 00:06:55,656 [INFO]   ❌ No se encontró email
+2026-06-16 00:06:57,313 [INFO] [154/213] Shalom Home90 (Barranquilla) → https://hotels.cloudbeds.com/reservation/qIlnXf
+2026-06-16 00:07:04,513 [INFO]   ✅ Email encontrado: shalomehome90@gmail.com
+2026-06-16 00:07:06,388 [INFO] [155/213] Hotel Caribe 79 (Barranquilla) → https://hotelcaribe79.com/
+2026-06-16 00:07:07,222 [INFO]   ❌ No se encontró email
+2026-06-16 00:07:10,563 [INFO] [156/213] Wyndham Garden Barranquilla (Barranquilla) → https://www.wyndhamhotels.com/es-xl/wyndham-garden/barranquilla-colombia/wyndham-garden-barranquilla/overview?CID=LC:46q62bu8edfbx3y:48626&iata=00093796
+2026-06-16 00:07:10,563 [INFO]   ❌ No se encontró email
+2026-06-16 00:07:13,865 [INFO] [157/213] Ayenda 1313 Barahona 72 (Barranquilla) → https://ayenda.com/co/hoteles/barranquilla/ayenda-1313-barahona-72??utm_source=google_business&utm_medium=organic
+2026-06-16 00:07:13,865 [INFO]   ❌ No se encontró email
+2026-06-16 00:07:15,781 [INFO] [158/213] Hotel NH Collection Barranquilla Smartsuites Royal (Barranquilla) → https://www.nh-hotels.com/en/hotel/nh-collection-barranquilla-smartsuites-royal?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb
+2026-06-16 00:07:15,782 [INFO]   ❌ No se encontró email
+2026-06-16 00:07:18,495 [INFO] [159/213] Mercure Bogotá Calle 100 (Bogota) → https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B471&merchantid=seo-maps-CO-B471&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps
+2026-06-16 00:07:19,569 [INFO]   ✅ Email encontrado: hb471-re@accor.com
+2026-06-16 00:07:21,946 [INFO] [160/213] Hotel Splendor Bogotâ (Bogota) → https://hotelesfc.com/hoteles/hotel-splendor/
+2026-06-16 00:07:27,282 [INFO]   ✅ Email encontrado: reservas@hotelesfc.com, reservashotelsplendorbgt@gmail.com
+2026-06-16 00:07:30,279 [INFO] [161/213] Hotel Virrey Central (Bogota) → https://www.hotelvirreycentral.com/
+2026-06-16 00:07:31,132 [INFO]   ✅ Email encontrado: reservas.ash@avianethoteles.com
+2026-06-16 00:07:33,514 [INFO] [162/213] Grand Hyatt | Bogotá (Bogota) → https://www.hyatt.com/grand-hyatt/en-US/boggh-grand-hyatt-bogota?src=corp_lclb_google_seo_boggh&utm_source=google&utm_medium=organic&utm_campaign=lmr
+2026-06-16 00:07:34,772 [INFO]   ❌ No se encontró email
+2026-06-16 00:07:36,993 [INFO] [163/213] EXPOSTAY HOTEL CORFERIAS, BOGOTA (Bogota) → http://www.expostayhotel.com/
+2026-06-16 00:07:41,499 [INFO]   ❌ No se encontró email
+2026-06-16 00:07:43,964 [INFO] [164/213] Hostel Bogotá Tu Sitio Niza (Bogota) → https://habitacionestusitio.wixsite.com/habitaciones-bogota
+2026-06-16 00:07:46,296 [INFO]   ✅ Email encontrado: habitaciones.tusitio@gmail.com
+2026-06-16 00:07:48,008 [INFO] [165/213] ibis budget Bogota Marly (Bogota) → https://all.accor.com/hotel/B429/index.es.shtml?goto=fiche_hotel&code_hotel=B429&merchantid=seo-maps-CO-B429&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps
+2026-06-16 00:07:50,946 [INFO]   ✅ Email encontrado: reservas.ibisbudgetmarly@accor.com
+2026-06-16 00:07:53,506 [INFO] [166/213] Hospedaje Sary house (Bogota) → https://www.saryhouse.com/
+2026-06-16 00:07:54,515 [INFO]   ❌ No se encontró email
+2026-06-16 00:07:56,020 [INFO] [167/213] Hotel City Bog Expo Museo (Bogota) → https://hotels.cloudbeds.com/es/reservation/0lz7CO/?currency=cop&checkin=2026-02-13&checkout=2026-02-14
+2026-06-16 00:07:56,363 [INFO]   ✅ Email encontrado: exposuitesparquebavaria@gmail.com
+2026-06-16 00:07:59,410 [INFO] [168/213] Hotel Casa Sarita (Bogota) → http://www.hotelcasasarita.es.tl/
+2026-06-16 00:08:08,873 [INFO]   ✅ Email encontrado: hotelcasasarita@hotmail.com
+2026-06-16 00:08:11,863 [INFO] [169/213] Bogota Marriott Hotel (Bogota) → https://www.marriott.com/en-us/hotels/bogmc-bogota-marriott-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+2026-06-16 00:08:13,904 [INFO]   ❌ No se encontró email
+2026-06-16 00:08:17,351 [INFO] [170/213] Novotel Bogotá (Bogota) → https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B468&merchantid=seo-maps-CO-B468&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps
+2026-06-16 00:08:22,123 [INFO]   ✅ Email encontrado: hb468-re@accor.com
+2026-06-16 00:08:24,187 [INFO] [171/213] Hotel Casa Gabriela (Bogota) → http://www.hotelcasagabriela.es.tl/
+2026-06-16 00:08:28,028 [INFO]   ✅ Email encontrado: hotelcasagabriela@outlook.es
+2026-06-16 00:08:30,957 [INFO] [172/213] Hotel Suite Centro De Bogotá (Bogota) → http://hotelsuitecentrobogota.com/
+2026-06-16 00:08:34,216 [INFO]   ✅ Email encontrado: hola@hotelsuitecentrobogota.com
+2026-06-16 00:08:37,545 [INFO] [173/213] Yachi Hostel ye Kuyay (Bogota) → https://kuyay.co/
+2026-06-16 00:08:42,197 [INFO]   ❌ No se encontró email
+2026-06-16 00:08:45,177 [INFO] [174/213] GHL Hotel Capital (Bogota) → https://www.hotelcapital.com.co/?partner=4153&utm_source=google&utm_medium=mybusiness
+2026-06-16 00:08:48,050 [INFO]   ✅ Email encontrado: reservas.capital@ghlhoteles.com
+2026-06-16 00:08:50,913 [INFO] [175/213] Hostel Joy Calle 85 (Bogota) → https://hostalesjoy.com/
+2026-06-16 00:08:57,208 [INFO]   ❌ No se encontró email
+2026-06-16 00:09:00,521 [INFO] [176/213] Ayenda Hotel Las Palmas (Bogota) → https://ayenda.com/co/hoteles/bogota/ayenda-las-palmas?utm_source=google_business&utm_medium=organic
+2026-06-16 00:09:00,521 [INFO]   ❌ No se encontró email
+2026-06-16 00:09:02,653 [INFO] [177/213] Hoteles Bogotá Inn (Bogota) → http://www.hotelbogotainn.com/
+2026-06-16 00:09:08,126 [INFO]   ❌ No se encontró email
+2026-06-16 00:09:11,433 [INFO] [178/213] Usaquen Station Hostel (Bogota) → https://ais-pre-b6k7scb622lqfxltawxhnu-266237947041.us-west2.run.app/
+2026-06-16 00:09:15,033 [INFO]   ❌ No se encontró email
+2026-06-16 00:09:18,255 [INFO] [179/213] Estadía El Dorado (Bogota) → https://www.estadiaeldorado.co/
+2026-06-16 00:09:18,316 [INFO]   ❌ No se encontró email
+2026-06-16 00:09:21,002 [INFO] [180/213] Hotel ByHours Las Américas (Bogota) → https://byhours.com.co/hotel-byhours-las-americas/
+2026-06-16 00:09:26,870 [INFO]   ✅ Email encontrado: infoastor@byhours.com.co, infochiquinquira@byhours.com.co, infocontinental@byhours.com.co, infocircunvalar@byhours.com.co, infolasamericas@byhours.com.co
+2026-06-16 00:09:29,436 [INFO] [181/213] Hotel Santiago Plaza (Bogota) → http://www.hotelsantiagoplazabogota.com/
+2026-06-16 00:09:32,131 [INFO]   ✅ Email encontrado: hotelsantiagoplazabogota@hotmail.com
+2026-06-16 00:09:35,569 [INFO] [182/213] Masaya Hostel Bogotá (Bogota) → http://www.masaya-experience.com/originals/bogota/
+2026-06-16 00:09:49,435 [INFO]   ❌ No se encontró email
+2026-06-16 00:09:52,268 [INFO] [183/213] Hotel De Película (Bogota) → https://www.hoteldepeliculacorferias.com/
+2026-06-16 00:09:53,260 [INFO]   ✅ Email encontrado: depeliculareservas@gmail.com, reservas@planeahotelgroup.com
+2026-06-16 00:09:56,250 [INFO] [184/213] Hotel Living 55 (Bogota) → https://www.hotelesgrace.com/hotel-living-55-2/
+2026-06-16 00:09:56,786 [INFO]   ❌ No se encontró email
+2026-06-16 00:09:59,923 [INFO] [185/213] Hemma ® Bogota Country Luxury Suites Hotel (Bogota) → https://hemmabogota.com/country/
+2026-06-16 00:10:00,701 [INFO]   ❌ No se encontró email
+2026-06-16 00:10:03,059 [INFO] [186/213] Ayenda Gold House (Bogota) → https://ayenda.com/co/hoteles/bogota/ayenda-gold-house
+2026-06-16 00:10:03,060 [INFO]   ❌ No se encontró email
+2026-06-16 00:10:05,830 [INFO] [187/213] 82 Hostel Bogota (Bogota) → https://82hostel.com.co/
+2026-06-16 00:10:06,801 [INFO]   ❌ No se encontró email
+2026-06-16 00:10:09,292 [INFO] [188/213] Hotel Movich Buró 26 (Bogota) → https://www.movichhotels.com/bogota
+2026-06-16 00:10:09,293 [INFO]   ❌ No se encontró email
+2026-06-16 00:10:10,854 [INFO] [189/213] Lavid hotel palacio real (Bogota) → https://lavidhotelpalacio.com/
+2026-06-16 00:10:20,919 [INFO]   ❌ No se encontró email
+2026-06-16 00:10:23,435 [INFO] [190/213] Hotel B3 Virrey (Bogota) → https://hotelesb3.com/?partner=13437&utm_source=google&utm_medium=organic&utm_campaign=MyBusiness
+2026-06-16 00:10:23,970 [INFO]   ❌ No se encontró email
+2026-06-16 00:10:26,437 [INFO] [191/213] Prisma Hostel (Bogota) → https://paxer.com/reservacion?hot_id=3296
+2026-06-16 00:10:29,324 [INFO]   ✅ Email encontrado: prismahostel@gmail.com
+2026-06-16 00:10:31,436 [INFO] [192/213] BLUE SUITES HOTEL (Bogota) → http://www.bluesuiteshotel.com/
+2026-06-16 00:10:34,786 [INFO]   ✅ Email encontrado: reservas@bluesuiteshotel.com
+2026-06-16 00:10:37,484 [INFO] [193/213] COSMOS 100 Hotel + Centro de Convenciones (Bogota) → http://cosmos100hotel.com/
+2026-06-16 00:10:42,123 [INFO]   ❌ No se encontró email
+2026-06-16 00:10:43,884 [INFO] [194/213] Hotel Lancaster House Suites (Bogota) → http://www.lancasterhouse.com.co/
+2026-06-16 00:10:46,183 [INFO]   ✅ Email encontrado: reservas@lancasterhouse.com.co
+2026-06-16 00:10:47,973 [INFO] [195/213] Wyndham Bogotá (Bogota) → https://www.wyndhamhotels.com/es-xl/wyndham/bogota-colombia/wyndham-bogota/overview?CID=LC:46q62bu8edfbx3y:42132&iata=00093796
+2026-06-16 00:10:47,974 [INFO]   ❌ No se encontró email
+2026-06-16 00:10:51,042 [INFO] [196/213] Hotel Factory Green Bogotá Occidente Calle 80 (Bogota) → https://www.hotelfactorygreen.com/
+2026-06-16 00:10:51,985 [INFO]   ❌ No se encontró email
+2026-06-16 00:10:54,593 [INFO] [197/213] Casa Bella Vista (Bogota) → https://app.otasync.me/engine/es/?property_code=NzUyMw&currency=COP&adults=2&children=0&dfrom=2025-02-24&dto=2025-02-25
+2026-06-16 00:10:56,573 [INFO]   ❌ No se encontró email
+2026-06-16 00:10:59,482 [INFO] [198/213] Hilton Bogotá (Bogota) → https://www.hilton.com/en/hotels/bogbchh-hilton-bogota/?SEO_id=GMB-AMER-HH-BOGBCHH&y_source=1_MTIxNjk0OTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+2026-06-16 00:11:00,365 [INFO]   ❌ No se encontró email
+2026-06-16 00:11:02,057 [INFO] [199/213] Hotel Hills Bogotá (Bogota) → https://hotels.cloudbeds.com/es/reservation/Bfw5B6?currency=USD#checkin=2024-11-20&checkout=2024-11-21
+2026-06-16 00:11:02,940 [INFO]   ✅ Email encontrado: hotelhillsbogota@outlook.com
+2026-06-16 00:11:06,385 [INFO] [200/213] Hotel Casa Sabelle (Bogota) → http://www.hotelcasasabelle.es.tl/
+2026-06-16 00:11:09,562 [INFO]   ✅ Email encontrado: hotelcasasabelle@outlook.com
+2026-06-16 00:11:11,372 [INFO] [201/213] Hotel Rosales Plaza Bogotá (Bogota) → https://www.hotelrosalesplaza.com/
+2026-06-16 00:11:14,541 [INFO]   ✅ Email encontrado: ventas@hotelrosalesplaza.com
+2026-06-16 00:11:16,628 [INFO] [202/213] Hotel bh Usaquen (Bogota) → https://www.bhhoteles.com/bh-usaquen
+2026-06-16 00:11:24,498 [INFO]   ❌ No se encontró email
+2026-06-16 00:11:27,768 [INFO] [203/213] Hotel Casa Paulina (Bogota) → https://edificiopaulina.es.tl/
+2026-06-16 00:11:39,972 [INFO]   ✅ Email encontrado: casahotelpaulina@hotmail.com
+2026-06-16 00:11:42,133 [INFO] [204/213] Hotel Fénix Real (Bogota) → http://engine.lobbypms.com/hotel-fenix-real
+2026-06-16 00:11:42,134 [INFO]   ❌ No se encontró email
+2026-06-16 00:11:44,501 [INFO] [205/213] Hotel Distrito ZF (Bogota) → http://hoteldistritozf.com/?partner=4823utm_source=google&utm_medium=organic&utm_campaign=MyBusiness&utm
+2026-06-16 00:11:51,875 [INFO]   ✅ Email encontrado: reservasdistrito@oxohotel.com
+2026-06-16 00:11:53,728 [INFO] [206/213] Windsor House By GEH Suites (Bogota) → https://www.gehsuites.com/es/nuestros-hoteles/hotel-windsor-house
+2026-06-16 00:11:54,472 [INFO]   ❌ No se encontró email
+2026-06-16 00:11:57,725 [INFO] [207/213] Fairfield by Marriott Bogota Embajada (Bogota) → https://www.marriott.com/en-us/hotels/bogfi-fairfield-bogota-embajada/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+2026-06-16 00:11:58,740 [INFO]   ❌ No se encontró email
+2026-06-16 00:12:01,273 [INFO] [208/213] Hotel Cápsula Bogotá (Bogota) → https://hotelcapsula.com.co/
+2026-06-16 00:12:35,698 [INFO]   ❌ No se encontró email
+2026-06-16 00:12:39,094 [INFO] [209/213] 84DC (Bogota) → http://www.84dc.com.co/?partner=4823&utm_source=google&utm_medium=gmb&utm_campaign=web_link
+2026-06-16 00:12:52,057 [INFO]   ✅ Email encontrado: reservas84dc@oxohotel.com
+2026-06-16 00:12:54,046 [INFO] [210/213] Grace Chapinero (Bogota) → https://www.hotelesgrace.com/grace-chapinero/
+2026-06-16 00:12:54,473 [INFO]   ❌ No se encontró email
+2026-06-16 00:12:56,866 [INFO] [211/213] Palermo Home Bogota & Art Gallery (Bogota) → https://us2.cloudbeds.com/reservation/1U8CuN
+2026-06-16 00:12:58,463 [INFO]   ✅ Email encontrado: info@palermohomebogota.com
+2026-06-16 00:13:01,666 [INFO] [212/213] HOTEL EMBAJADA USA (Bogota) → http://www.hotelembajada.com/
+2026-06-16 00:13:02,676 [INFO]   ❌ No se encontró email
+2026-06-16 00:13:04,568 [INFO] [213/213] Hotel San Pablo (Bogota) → http://www.sanpablohotel.com/
+2026-06-16 00:13:06,791 [INFO]   ✅ Email encontrado: reservas@sanpablohotel.com
+2026-06-16 00:13:09,302 [INFO] 
+============================================================
+RESUMEN FINAL
+============================================================
+Total procesados : 213
+Emails encontrados: 77  (36.2%)
+Sin email         : 136
+Con errores       : 0
+============================================================
+
+2026-06-16 14:13:08,885 [INFO] Hoteles a procesar: 170
+2026-06-16 14:13:08,885 [INFO] [1/170] Hotel Movich Buró 51 (Barranquilla) → https://www.movichhotels.com/barranquilla
+2026-06-16 14:13:08,885 [INFO]   ❌ No se encontró email
+2026-06-16 14:13:11,361 [INFO] [2/170] Hotel BH Barranquilla (Barranquilla) → https://www.bhhoteles.com/bh-barranquilla
+2026-06-16 14:13:12,004 [INFO]   ❌ No se encontró email
+2026-06-16 14:13:15,308 [INFO] [3/170] Hotel Ayenda Skall 1319 (Barranquilla) → https://ayenda.com/co/hoteles/barranquilla/ayenda-1319-skall?utm_source=google_business&utm_medium=organic
+2026-06-16 14:13:15,308 [INFO]   ❌ No se encontró email
+2026-06-16 14:13:17,009 [INFO] [4/170] Hotel Yivinaca (Barranquilla) → http://www.hotelyivinaca.com/
+2026-06-16 14:13:23,326 [INFO]   ❌ No se encontró email
+2026-06-16 14:13:25,556 [INFO] [5/170] Hotel Aquarius (Barranquilla) → https://engine.lobbypms.com/hotel-aquarius
+2026-06-16 14:13:25,557 [INFO]   ❌ No se encontró email
+2026-06-16 14:13:28,872 [INFO] [6/170] Ayenda Hotel 1309 Villa Dilia (Barranquilla) → https://ayenda.com/co/hoteles/barranquilla/ayenda-1309-villa-dilia??utm_source=google_business&utm_medium=organic
+2026-06-16 14:13:28,872 [INFO]   ❌ No se encontró email
+2026-06-16 14:13:31,061 [INFO] [7/170] Hotel Genova (Barranquilla) → http://hotelgenova.com.co/
+2026-06-16 14:13:32,086 [INFO]   ❌ No se encontró email
+2026-06-16 14:13:33,885 [INFO] [8/170] Hotel Don Fermin (Barranquilla) → https://www.booking.com/hotel/co/don-fermin.es.html?aid=356980&label=gog235jc-10CAsoMkIKZG9uLWZlcm1pbkgKWANoMogBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgC_JSZyAbAAgHSAiQxNjI0MzViYy03Y2RiLTRkMDktODRhNS0zNDkxNGNmZmM3ZTfYAgHgAgE&sid=cee95cdcbb4c9f34b13912ebf81eb256&all_sr_blocks=1329180002_406081481_1_42_0,1329180002_406081481_1_42_0&checkin=2025-11-02&checkout=2025-11-03&dest_id=-578007&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=1329180002_406081481_1_42_0,1329180002_406081481_1_42_0&hpos=1&matching_block_id=1329180002_406081481_1_42_0&no_rooms=2&req_adults=2&req_children=0&room1=A&room2=A&sb_price_type=total&sr_order=popularity&sr_pri_blocks=1329180002_406081481_1_42_0__4455000,1329180002_406081481_1_42_0__4455000&srepoch=1762020128&srpvid=2b7311ebb3fff49bbb8a1a46b0aecb71&type=total&ucfs=1&
+2026-06-16 14:13:33,886 [INFO]   ❌ No se encontró email
+2026-06-16 14:13:35,684 [INFO] [9/170] Hotel Continental Express (Barranquilla) → http://www.hotelescontinental.co/
+2026-06-16 14:13:40,298 [INFO]   ❌ No se encontró email
+2026-06-16 14:13:41,876 [INFO] [10/170] Aparta Hotel Mediterraneo (Barranquilla) → https://linktr.ee/mediterraneo.in
+2026-06-16 14:13:48,855 [INFO]   ❌ No se encontró email
+2026-06-16 14:13:51,731 [INFO] [11/170] Hotel Catedral Inn B SAS (Barranquilla) → http://www.catedralinn.com/
+2026-06-16 14:14:09,119 [INFO]   ❌ No se encontró email
+2026-06-16 14:14:12,242 [INFO] [12/170] Hotel Majestic (Barranquilla) → https://hotelmajestic.getawayrentals.info/
+2026-06-16 14:14:18,141 [INFO]   ❌ No se encontró email
+2026-06-16 14:14:20,221 [INFO] [13/170] Hotel Dasanto (Barranquilla) → https://hoteldasanto.com/
+2026-06-16 14:14:21,211 [INFO]   ❌ No se encontró email
+2026-06-16 14:14:24,380 [INFO] [14/170] HOTEL INTERSUITES (Barranquilla) → http://www.intersuiteshotel.com/
+2026-06-16 14:14:25,218 [INFO]   ❌ No se encontró email
+2026-06-16 14:14:27,975 [INFO] [15/170] Hotel Costa Linda Barranquilla (Barranquilla) → https://costalindahotel.com/
+2026-06-16 14:14:29,575 [INFO]   ✅ Email encontrado: reservas@costalindahotel.com
+2026-06-16 14:14:32,696 [INFO] [16/170] Hotel Casa Boston Inn by Finerh (Barranquilla) → https://www.hotelesboston58.com/
+2026-06-16 14:14:37,838 [INFO]   ❌ No se encontró email
+2026-06-16 14:14:40,479 [INFO] [17/170] Radisson Hotel Diamond Barranquilla (Barranquilla) → https://www.choicehotels.com/colombia/barranquilla/radisson-hotels/cb009?mc=llgoxxpx
+2026-06-16 14:14:40,480 [INFO]   ❌ No se encontró email
+2026-06-16 14:14:43,743 [INFO] [18/170] Hotel Costa Mar (Barranquilla) → http://hotelcostamar.co/
+2026-06-16 14:14:50,193 [INFO]   ❌ No se encontró email
+2026-06-16 14:14:53,324 [INFO] [19/170] Hotel Windsor Barranquilla (Barranquilla) → http://www.hotelwindsor.com.co/
+2026-06-16 14:15:03,955 [INFO]   ✅ Email encontrado: comunicaciones@hotelwindsor.com.co
+2026-06-16 14:15:06,735 [INFO] [20/170] Hotel malecon del río (Barranquilla) → https://engine.ayenda.co/hotel-malecon-del-rio
+2026-06-16 14:15:10,922 [INFO]   ❌ No se encontró email
+2026-06-16 14:15:13,637 [INFO] [21/170] Hotel Casa Rueda (Barranquilla) → https://hotelcasarueda.com/
+2026-06-16 14:15:33,954 [INFO]   ❌ No se encontró email
+2026-06-16 14:15:35,879 [INFO] [22/170] Ribai Hotels Barranquilla (Barranquilla) → http://www.ribaihotels.com/
+2026-06-16 14:15:35,879 [INFO]   ❌ No se encontró email
+2026-06-16 14:15:37,872 [INFO] [23/170] Hotel rivera del mar (Barranquilla) → http://www.hotelriveradelmar.com/
+2026-06-16 14:15:41,348 [INFO]   ❌ No se encontró email
+2026-06-16 14:15:42,943 [INFO] [24/170] Hotel Dorado Plaza Alto Prado (Barranquilla) → https://www.doradoplaza.com/hoteles/hotel-dorado-alto-prado
+2026-06-16 14:15:43,552 [INFO]   ❌ No se encontró email
+2026-06-16 14:15:45,599 [INFO] [25/170] Hotel Sun River (Barranquilla) → http://www.hotelsunriver.com/
+2026-06-16 14:15:46,479 [INFO]   ❌ No se encontró email
+2026-06-16 14:15:49,795 [INFO] [26/170] Hotel Dann Carlton Barranquilla (Barranquilla) → http://www.danncarltonbaq.co/
+2026-06-16 14:15:54,431 [INFO]   ❌ No se encontró email
+2026-06-16 14:15:57,600 [INFO] [27/170] Hotel Continental Plaza (Barranquilla) → https://www.hotelcontinentalplaza.com/
+2026-06-16 14:15:58,332 [INFO]   ✅ Email encontrado: reservas@hotelcontinentalplaza.com
+2026-06-16 14:16:00,449 [INFO] [28/170] Hotel Plaza 43 (Barranquilla) → https://www.hotelplaza43.com.co/
+2026-06-16 14:16:02,787 [INFO]   ❌ No se encontró email
+2026-06-16 14:16:05,710 [INFO] [29/170] Hotel Colonial Inn (Barranquilla) → https://hotelcolonialinn-colombia.com-colombia.com/
+2026-06-16 14:16:06,572 [INFO]   ❌ No se encontró email
+2026-06-16 14:16:09,237 [INFO] [30/170] Barranquilla Marriott Hotel (Barranquilla) → https://www.marriott.com/en-us/hotels/baqmc-barranquilla-marriott-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+2026-06-16 14:16:10,026 [INFO]   ❌ No se encontró email
+2026-06-16 14:16:11,548 [INFO] [31/170] Hotel Med Suites 94 Barranquilla (Barranquilla) → https://direct-book.com/properties/DirectHotelMedSuites94?locale=en&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=COP&checkInDate=2025-05-27&checkOutDate=2025-05-28&trackPage=yes
+2026-06-16 14:16:15,194 [INFO]   ❌ No se encontró email
+2026-06-16 14:16:17,899 [INFO] [32/170] Hotel Marcarí (Barranquilla) → https://direct-book.com/properties/HOTELMEDBARRANQUILLACENTRODIRECT?locale=en&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=COP&checkInDate=2025-03-31&checkOutDate=2025-04-01&trackPage=yes
+2026-06-16 14:16:17,968 [INFO]   ❌ No se encontró email
+2026-06-16 14:16:20,540 [INFO] [33/170] Hotel Boutique M (Barranquilla) → http://www.hotelboutiquem.com/
+2026-06-16 14:16:23,100 [INFO]   ❌ No se encontró email
+2026-06-16 14:16:25,761 [INFO] [34/170] Hotel Puerta de Oro (Barranquilla) → http://www.hotelpuertadeorobaq.com/
+2026-06-16 14:16:28,912 [INFO]   ✅ Email encontrado: reservas@hotelpuertadeorobaq.com
+2026-06-16 14:16:31,997 [INFO] [35/170] Hotel Faranda Express Puerta del Sol Barranquilla, a member of Radisson Individuals (Barranquilla) → https://www.farandahotels.com/hotel/hotel-puerta-del-sol-barranquilla-by-faranda-express-mc-bwfrxxfh-atrk-bwfrxxfh-fr-fh-cb019
+2026-06-16 14:16:31,997 [INFO]   ❌ No se encontró email
+2026-06-16 14:16:35,135 [INFO] [36/170] Hotel Granada Inn Barranquilla (Barranquilla) → https://www.hotelgranadainn.com.co/granadainn/index.html
+2026-06-16 14:16:36,206 [INFO]   ❌ No se encontró email
+2026-06-16 14:16:39,418 [INFO] [37/170] Amari Living Suites (Barranquilla) → https://amarilivingsuite.com/
+2026-06-16 14:16:40,142 [INFO]   ❌ No se encontró email
+2026-06-16 14:16:42,491 [INFO] [38/170] Holiday Inn Bogotá Aeropuerto (Bogota) → https://www.ihg.com/holidayinn/hotels/us/en/bogota/bogap/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-CO-_-BOGAP
+2026-06-16 14:16:43,102 [INFO]   ❌ No se encontró email
+2026-06-16 14:16:45,613 [INFO] [39/170] Hotel Grand Park (Bogota) → http://hotelgrandpark.com.co/?partner=13813&utm_source=google&utm_medium=organic&utm_campaign=MyBusiness
+2026-06-16 14:16:47,580 [INFO]   ✅ Email encontrado: reservas@hotelgrandpark.com.co
+2026-06-16 14:16:50,285 [INFO] [40/170] Hotel Oceanía Bogotá - Museo (Bogota) → http://hoteloceaniabogota.com/
+2026-06-16 14:16:51,333 [INFO]   ❌ No se encontró email
+2026-06-16 14:16:52,900 [INFO] [41/170] Hotel Regina (Bogota) → https://www.hotelesgrace.com/hotel-regina-2/
+2026-06-16 14:16:56,134 [INFO]   ❌ No se encontró email
+2026-06-16 14:16:58,159 [INFO] [42/170] Hotel La Estación (Bogota) → https://hotellaestacion.com.co/
+2026-06-16 14:16:59,626 [INFO]   ❌ No se encontró email
+2026-06-16 14:17:01,633 [INFO] [43/170] Hotel Santa Barbara Real (Bogota) → https://hotelsantabarbarareal.com/
+2026-06-16 14:17:04,451 [INFO]   ✅ Email encontrado: admin@sbhoteles.com.co
+2026-06-16 14:17:07,504 [INFO] [44/170] Eutopiq Hotel (Medellin) → https://www.eutopiq.com/es/index.html
+2026-06-16 14:17:11,380 [INFO]   ❌ No se encontró email
+2026-06-16 14:17:13,537 [INFO] [45/170] Hotel Vivre (Medellin) → http://www.hotelvivre.com/
+2026-06-16 14:17:18,464 [INFO]   ✅ Email encontrado: reservas@hotelvivre.com, comercial@hotelvivre.com
+2026-06-16 14:17:20,959 [INFO] [46/170] HOTEL CIVITAS MEDELLIN (Medellin) → https://hotelcivitasmedellin.com/
+2026-06-16 14:17:24,772 [INFO]   ✅ Email encontrado: civitascontrol@gmail.com
+2026-06-16 14:17:27,756 [INFO] [47/170] Hostal Pura Vida La 70 (Medellin) → https://engine.lobbypms.com/hostal-pura-vida-la-70
+2026-06-16 14:17:27,756 [INFO]   ❌ No se encontró email
+2026-06-16 14:17:29,581 [INFO] [48/170] Aura Hotel (Medellin) → https://aura.ibnhotel.com/
+2026-06-16 14:17:31,429 [INFO]   ❌ No se encontró email
+2026-06-16 14:17:34,839 [INFO] [49/170] Laureles Guest House (LGH Hotel & Coliving) (Medellin) → http://www.laurelesguesthouse.com/
+2026-06-16 14:17:37,151 [INFO]   ✅ Email encontrado: info@laurelesguesthouse.com
+2026-06-16 14:17:39,251 [INFO] [50/170] Hotel Med Colombia (Medellin) → https://direct-book.com/properties/HOTELMEDCOLOMBIA2DIRECT?locale=en&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=COP&checkInDate=2025-03-11&checkOutDate=2025-03-12&trackPage=yes
+2026-06-16 14:17:39,814 [INFO]   ❌ No se encontró email
+2026-06-16 14:17:42,043 [INFO] [51/170] Hotel Colombia Avenida (Medellin) → https://engine.lobbypms.com/hotel-colombia-avenida
+2026-06-16 14:17:42,044 [INFO]   ❌ No se encontró email
+2026-06-16 14:17:43,829 [INFO] [52/170] Moore 45 Hotel (Medellin) → https://engine.lobbypms.com/moore-45
+2026-06-16 14:17:43,830 [INFO]   ❌ No se encontró email
+2026-06-16 14:17:47,144 [INFO] [53/170] Marquee Hotel (Medellin) → https://marqueemedellin.com/
+2026-06-16 14:17:49,668 [INFO]   ❌ No se encontró email
+2026-06-16 14:17:51,537 [INFO] [54/170] Hotel Boutique Laureles Medellin (HBL) (Medellin) → https://book.omnibees.com/hotel/12737
+2026-06-16 14:17:55,095 [INFO]   ❌ No se encontró email
+2026-06-16 14:17:57,355 [INFO] [55/170] Hotel Torre Poblado (Medellin) → http://www.torrepoblado.com/?utm_medium=organic&utm_source=google&utm_campaign=google-my-business&utm_term=google-local
+2026-06-16 14:18:08,042 [INFO]   ❌ No se encontró email
+2026-06-16 14:18:11,078 [INFO] [56/170] Hotel Casa Malibu (Medellin) → http://www.hotelcasamalibu.com.co/
+2026-06-16 14:18:12,499 [INFO]   ✅ Email encontrado: info@hotelcasamalibu.com.co
+2026-06-16 14:18:14,550 [INFO] [57/170] Hotel Poblado Alejandria (Medellin) → http://hotelpobladoalejandria.com/
+2026-06-16 14:18:18,788 [INFO]   ❌ No se encontró email
+2026-06-16 14:18:20,328 [INFO] [58/170] Hotel Dann Carlton Medellín (Medellin) → https://www.danncarlton.com/
+2026-06-16 14:18:21,356 [INFO]   ❌ No se encontró email
+2026-06-16 14:18:23,505 [INFO] [59/170] Hotel El Zarzo Medellín (Medellin) → https://hotelelzarzo.com/
+2026-06-16 14:18:24,567 [INFO]   ❌ No se encontró email
+2026-06-16 14:18:27,241 [INFO] [60/170] Hotel Praga Medellin (Medellin) → http://hotelpragamedellin.com/
+2026-06-16 14:18:31,795 [INFO]   ❌ No se encontró email
+2026-06-16 14:18:35,062 [INFO] [61/170] HOTEL PARK CARIBE (Medellin) → https://in-travel.co/st_hotel/hotel-park-caribe/
+2026-06-16 14:18:54,993 [INFO]   ✅ Email encontrado: info@in-travel.co
+2026-06-16 14:18:57,303 [INFO] [62/170] Gallery Hotel Medellín (Medellin) → https://www.galleryhotel.co/
+2026-06-16 14:18:58,165 [INFO]   ❌ No se encontró email
+2026-06-16 14:19:01,439 [INFO] [63/170] EcoHub Hotel Medellín (Medellin) → https://www.ecohubhotelmedellin.com/
+2026-06-16 14:19:02,326 [INFO]   ✅ Email encontrado: reservas@ecohubhotelmedellin.com
+2026-06-16 14:19:04,191 [INFO] [64/170] Hotel Boutique Laureles Home (Medellin) → https://engine.lobbypms.com/hotelboutiquelaureleshome
+2026-06-16 14:19:04,191 [INFO]   ❌ No se encontró email
+2026-06-16 14:19:07,625 [INFO] [65/170] Hotel Alcaraván (Medellin) → http://www.hotelalcaravan.com/
+2026-06-16 14:19:12,534 [INFO]   ✅ Email encontrado: info@hotelalcaravan.com
+2026-06-16 14:19:15,693 [INFO] [66/170] Rock Hostel Medellín (Medellin) → https://linktr.ee/rockhostel
+2026-06-16 14:19:20,358 [INFO]   ❌ No se encontró email
+2026-06-16 14:19:21,943 [INFO] [67/170] Hotel Dorado La 70 (Medellin) → http://hoteldoradola70.com/
+2026-06-16 14:19:26,465 [INFO]   ❌ No se encontró email
+2026-06-16 14:19:28,375 [INFO] [68/170] Hotel Conquistadores Medellin (Medellin) → https://ayenda.com/co/hoteles/medellin/ayenda-1248-conquistadores?utm_source=google_business&utm_medium=organic
+2026-06-16 14:19:28,376 [INFO]   ❌ No se encontró email
+2026-06-16 14:19:30,681 [INFO] [69/170] HOTEL BAMBU MILLA DE ORO (Medellin) → http://www.bambumilladeoro.com/
+2026-06-16 14:19:36,610 [INFO]   ❌ No se encontró email
+2026-06-16 14:19:39,018 [INFO] [70/170] TERRA BIOHOTEL MEDELLÍN (Medellin) → https://www.terrabiohotel.com/
+2026-06-16 14:19:42,974 [INFO]   ✅ Email encontrado: reservas@terrabiohotel.com
+2026-06-16 14:19:46,057 [INFO] [71/170] Hotel Dix (Medellin) → http://www.dixhotel.co/
+2026-06-16 14:19:49,196 [INFO]   ✅ Email encontrado: florece@dixhotel.co, facilita@dixhotel.co
+2026-06-16 14:19:51,191 [INFO] [72/170] Hotel 47 Medellin Street (Medellin) → http://www.medellin47.com/
+2026-06-16 14:19:52,100 [INFO]   ❌ No se encontró email
+2026-06-16 14:19:55,271 [INFO] [73/170] Hashtag 98 Hotel By Jalo (Medellin) → https://hashtag98.com.co/
+2026-06-16 14:19:55,774 [INFO]   ✅ Email encontrado: frontdesk@hashtag98.com.co
+2026-06-16 14:19:59,090 [INFO] [74/170] Hotel Central Plaza (Medellin) → http://www.hotelcentralplazamedellin.com/
+2026-06-16 14:20:00,816 [INFO]   ✅ Email encontrado: info@hotelcentralplazamedellin.com
+2026-06-16 14:20:04,080 [INFO] [75/170] Hotel Panorama (Medellin) → https://panoramahotel.co/
+2026-06-16 14:20:49,495 [INFO]   ❌ No se encontró email
+2026-06-16 14:20:52,982 [INFO] [76/170] Hotel Playa Itagui (Medellin) → https://engine.lobbypms.com/hotel-playa-sur-itagui
+2026-06-16 14:20:52,982 [INFO]   ❌ No se encontró email
+2026-06-16 14:20:55,973 [INFO] [77/170] Primavera Hotel (Medellin) → https://www.booking.com/hotel/co/primavera-zero.es.html?label=gen173nr-1BCAsoMkIOcHJpbWF2ZXJhLXplcm9IM1gEaDKIAQGYAQq4ARjIAQzYAQHoAQGIAgGoAgS4AuKt2a8GwAIB0gIkZWMyMjZmMGEtMWMwNS00ODU5LWI4MTYtZTU2MWQ1NmVkYTg42AIF4AIB&sid=9f6b14608d85fa780aa012a4d73e8d4d&dist=0&keep_landing=1&sb_price_type=total&type=total&
+2026-06-16 14:20:55,973 [INFO]   ❌ No se encontró email
+2026-06-16 14:20:59,427 [INFO] [78/170] Hotel Asturias Medellin (Medellin) → https://www.asturiasmedellinhotel.com/es/
+2026-06-16 14:21:01,821 [INFO]   ❌ No se encontró email
+2026-06-16 14:21:05,227 [INFO] [79/170] Mythical Hotel en Laureles - Medellin. (Medellin) → https://mythicalhotel.com/
+2026-06-16 14:21:09,559 [INFO]   ❌ No se encontró email
+2026-06-16 14:21:12,216 [INFO] [80/170] Hotel Macedonia Plaza Itagui (Medellin) → https://engine.lobbypms.com/hotel-macedonia-plaza
+2026-06-16 14:21:12,216 [INFO]   ❌ No se encontró email
+2026-06-16 14:21:14,792 [INFO] [81/170] Hotel Casa Santafé (Medellin) → https://hotelcasasantafe.com/
+2026-06-16 14:21:17,643 [INFO]   ❌ No se encontró email
+2026-06-16 14:21:20,044 [INFO] [82/170] La Familia Hostel - Parque el Poblado (Medellin) → https://www.lafamilia-hostel.com/parque-poblado/
+2026-06-16 14:21:22,127 [INFO]   ❌ No se encontró email
+2026-06-16 14:21:25,026 [INFO] [83/170] Medellin Marriott Hotel (Medellin) → https://www.marriott.com/en-us/hotels/mdemc-medellin-marriott-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+2026-06-16 14:21:26,013 [INFO]   ❌ No se encontró email
+2026-06-16 14:21:28,867 [INFO] [84/170] Bakú Laureles Hostel (Medellin) → https://engine.lobbypms.com/baku-laureles-hostel
+2026-06-16 14:21:28,868 [INFO]   ❌ No se encontró email
+2026-06-16 14:21:31,411 [INFO] [85/170] Hotel Cool Living by Los Patios Best Hotel in Laureles (Medellin) → https://www.lospatioshb.com/cool-living
+2026-06-16 14:21:33,587 [INFO]   ✅ Email encontrado: marketing@lospatioshb.com, info@lospatioshb.com
+2026-06-16 14:22:16,536 [INFO] [86/170] Europa Suites Medellin (Medellin) → https://www.jetsetrentals.com/vacation-rentals/medellin/europa-suites-lleras-park/
+2026-06-16 14:22:29,257 [INFO]   ❌ No se encontró email
+2026-06-16 14:22:31,898 [INFO] [87/170] Hotel Bolivariana Plaza (Medellin) → http://hotelbolivarianaplaza.com/
+2026-06-16 14:22:33,827 [INFO]   ✅ Email encontrado: reservas@hotelbolivarianaplaza.com, comercial@hotelbolivarianaplaza.com
+2026-06-16 14:22:36,038 [INFO] [88/170] Vita Hotel Boutique (Medellin) → https://engine.lobbypms.com/vita-hotel-boutique
+2026-06-16 14:22:36,038 [INFO]   ❌ No se encontró email
+2026-06-16 14:22:37,863 [INFO] [89/170] Manila Hotel Boutique (Medellin) → http://www.manilahotelboutique.com/
+2026-06-16 14:22:40,631 [INFO]   ✅ Email encontrado: administracion@manilahotelboutique.com
+2026-06-16 14:22:43,960 [INFO] [90/170] Apparments Hotel Medellin (Medellin) → https://appartments.com.co/
+2026-06-16 14:22:44,494 [INFO]   ❌ No se encontró email
+2026-06-16 14:22:46,643 [INFO] [91/170] Los Patios Hostel Boutique - The Best Hostel Medellin (Medellin) → http://www.lospatioshb.com/
+2026-06-16 14:22:57,174 [INFO]   ❌ No se encontró email
+2026-06-16 14:23:00,384 [INFO] [92/170] Hotel Ayenda Habana Vieja 1221 (Medellin) → https://ayenda.com/co/hoteles/medellin/ayenda-habana-vieja-1221?utm_source=google_business&utm_medium=organic
+2026-06-16 14:23:00,384 [INFO]   ❌ No se encontró email
+2026-06-16 14:23:02,631 [INFO] [93/170] Hotel Mediterráneo (CERRADO EDIFICIO TEMPORALMENTE) (Medellin) → http://www.hotelmediterraneo.com.co/
+2026-06-16 14:23:06,978 [INFO]   ❌ No se encontró email
+2026-06-16 14:23:09,625 [INFO] [94/170] Hotel Helene (Medellin) → https://hotelhelene.co/
+2026-06-16 14:23:12,167 [INFO]   ❌ No se encontró email
+2026-06-16 14:23:14,322 [INFO] [95/170] Hotel Deinelis Inn Sas (Bosconia) → https://www.boghotel.com/
+2026-06-16 14:23:16,177 [INFO]   ❌ No se encontró email
+2026-06-16 14:23:17,998 [INFO] [96/170] Hotel Mesa De Los Santos S A S (Piedecuesta) → https://www.boghotel.com/
+2026-06-16 14:23:18,261 [INFO]   ❌ No se encontró email
+2026-06-16 14:23:21,007 [INFO] [97/170] Hoteles Decameron Colombia S A S (Cartagena) → https://www.hoteleslasolas.com.co/
+2026-06-16 14:23:34,943 [INFO]   ✅ Email encontrado: comercialhoteles@hoteleslasolas.com.co
+2026-06-16 14:23:38,174 [INFO] [98/170] Sociedad Hotelera Tequendama S A (Bogota) → https://concepto.de/sociedad/
+2026-06-16 14:23:39,418 [INFO]   ❌ No se encontró email
+2026-06-16 14:23:41,286 [INFO] [99/170] Grupo Hotelero Mar Y Sol S A S (Cartagena) → https://dle.rae.es/grupo
+2026-06-16 14:23:43,301 [INFO]   ❌ No se encontró email
+2026-06-16 14:23:45,060 [INFO] [100/170] Hoteles Charleston S A S (Bogota) → https://www.hoteleslasolas.com.co/
+2026-06-16 14:23:52,557 [INFO]   ✅ Email encontrado: comercialhoteles@hoteleslasolas.com.co
+2026-06-16 14:23:54,924 [INFO] [101/170] Industrial Hotelera Y Alimentos Sas Dialimentos Sas (Bogota) → https://www.corporacionbi.com/gt/bancoindustrial/
+2026-06-16 14:23:55,569 [INFO]   ❌ No se encontró email
+2026-06-16 14:23:57,113 [INFO] [102/170] Pavillion Hotels Group S A S (Cartagena) → https://forums.commentcamarche.net/forum/affich-8406097-revenir-a-l-ancien-facebook
+2026-06-16 14:23:58,963 [INFO]   ❌ No se encontró email
+2026-06-16 14:24:01,041 [INFO] [103/170] Hoteles 127 Avenida Sociedad Por Acciones Simplificada (Bogota) → https://www.hoteleslasolas.com.co/
+2026-06-16 14:24:08,845 [INFO]   ✅ Email encontrado: comercialhoteles@hoteleslasolas.com.co
+2026-06-16 14:24:12,287 [INFO] [104/170] Hoteles Bogota Plaza S A S (Bogota) → https://www.hoteleslasolas.com.co/
+2026-06-16 14:24:19,605 [INFO]   ✅ Email encontrado: comercialhoteles@hoteleslasolas.com.co
+2026-06-16 14:24:21,865 [INFO] [105/170] Hotel Metrotel S A S (Bogota) → https://www.boghotel.com/
+2026-06-16 14:24:22,158 [INFO]   ❌ No se encontró email
+2026-06-16 14:24:24,755 [INFO] [106/170] Cartagena Dubai Beach Resort & Spa S A S (Cartagena) → https://www.cartagena.gov.co/
+2026-06-16 14:24:35,721 [INFO]   ❌ No se encontró email
+2026-06-16 14:24:41,119 [INFO] [107/170] Inversiones Hoteleras Alamedas Y Compania Ltda (Monteria) → https://www.bbva.com/es/salud-financiera/que-son-las-inversiones-financieras-y-que-tipos-existen/
+2026-06-16 14:24:52,387 [INFO]   ❌ No se encontró email
+2026-06-16 14:24:55,717 [INFO] [108/170] Blue Doors York Luxury Suites S A S (Medellin) → https://www.bluey.tv/espanol/
+2026-06-16 14:24:58,394 [INFO]   ❌ No se encontró email
+2026-06-16 14:25:00,011 [INFO] [109/170] Hotel Aeropuerto S A S (Bogota) → https://www.boghotel.com/
+2026-06-16 14:25:00,369 [INFO]   ❌ No se encontró email
+2026-06-16 14:25:02,435 [INFO] [110/170] Hoteles Parqueaderos Y Servicentros Hopa S A S (Medellin) → https://www.hoteleslasolas.com.co/
+2026-06-16 14:25:10,398 [INFO]   ✅ Email encontrado: comercialhoteles@hoteleslasolas.com.co
+2026-06-16 14:25:12,383 [INFO] [111/170] Hotel Grand Park Sas (Bogota) → https://www.boghotel.com/
+2026-06-16 14:25:12,700 [INFO]   ❌ No se encontró email
+2026-06-16 14:25:15,754 [INFO] [112/170] Serena Hotels S A S (Medellin) → https://www.webtoons.com/en/drama/serena/list?title_no=5037
+2026-06-16 14:25:20,568 [INFO]   ✅ Email encontrado: webtoonip@webtoon.com, dl_linewebtoon_ad@webtoonscorp.com, webtoonpress@webtoon.com, webtoonsupport@webtoon.com
+2026-06-16 14:25:23,054 [INFO] [113/170] Hcc Hoteles S A S (Cienaga) → https://www.haywood.edu/
+2026-06-16 14:25:24,875 [INFO]   ✅ Email encontrado: address@mailserver.com
+2026-06-16 14:25:27,293 [INFO] [114/170] Hoteles De Conveniencia S A S (Cota) → https://www.hoteleslasolas.com.co/
+2026-06-16 14:25:35,087 [INFO]   ✅ Email encontrado: comercialhoteles@hoteleslasolas.com.co
+2026-06-16 14:25:37,921 [INFO] [115/170] Hotel Artisan Calle 72 S A S (Bogota) → https://www.boghotel.com/
+2026-06-16 14:25:38,293 [INFO]   ❌ No se encontró email
+2026-06-16 14:25:40,002 [INFO] [116/170] Hotel De Turismo Guadalajara S A (Buga) → https://www.boghotel.com/
+2026-06-16 14:25:40,461 [INFO]   ❌ No se encontró email
+2026-06-16 14:25:42,089 [INFO] [117/170] Operadora Hoteles Alko S A S (Cali) → https://www.netflix.com/pl/title/80050063
+2026-06-16 14:25:44,168 [INFO]   ❌ No se encontró email
+2026-06-16 14:25:47,576 [INFO] [118/170] Chapter Hotels Sas (Medellin) → https://chatgpt.com/g/g-AOH5ruNxn-chapter-gpt
+2026-06-16 14:25:56,751 [INFO]   ❌ No se encontró email
+2026-06-16 14:26:00,050 [INFO] [119/170] Inversiones Hoteleras Wg Cartagena S A S (Cartagena) → https://www.bbva.com/es/salud-financiera/que-son-las-inversiones-financieras-y-que-tipos-existen/
+2026-06-16 14:26:04,550 [INFO]   ❌ No se encontró email
+2026-06-16 14:26:07,337 [INFO] [120/170] Cia Hotelera Andes Plaza S A S (Bogota) → https://www.cia.gov/index.html
+2026-06-16 14:26:11,375 [INFO]   ❌ No se encontró email
+2026-06-16 14:26:14,600 [INFO] [121/170] Hotel Cartagena Plaza De La Aduana S A S (Cartagena) → https://www.boghotel.com/
+2026-06-16 14:26:14,917 [INFO]   ❌ No se encontró email
+2026-06-16 14:26:16,914 [INFO] [122/170] Hoteles 23 S A S (Medellin) → https://www.hoteleslasolas.com.co/
+2026-06-16 14:26:24,125 [INFO]   ✅ Email encontrado: comercialhoteles@hoteleslasolas.com.co
+2026-06-16 14:26:26,695 [INFO] [123/170] Bonsol Hotels Gestion Colombia S A S (Medellin) → https://vimeo.com/946455673
+2026-06-16 14:26:27,534 [INFO]   ❌ No se encontró email
+2026-06-16 14:26:30,467 [INFO] [124/170] Bantu Hotel S A S (Cartagena) → https://www.speedtest.net/es
+2026-06-16 14:26:35,633 [INFO]   ❌ No se encontró email
+2026-06-16 14:26:37,894 [INFO] [125/170] De Provincia Hoteles S A S (Medellin) → https://www.jusbrasil.com.br/jurisprudencia/tj-rs/?msockid=35f4b321db02611203c1a45bdacb6006
+2026-06-16 14:26:38,825 [INFO]   ❌ No se encontró email
+2026-06-16 14:26:41,858 [INFO] [126/170] Fox Hoteles S A S (Cartagena) → https://www.foxnews.com/?msockid=2b58550ed92e60f21bc94274d8296168
+2026-06-16 14:26:47,356 [INFO]   ❌ No se encontró email
+2026-06-16 14:26:49,969 [INFO] [127/170] Hoteles Bogota Inn S A S (Bogota) → https://www.hoteleslasolas.com.co/
+2026-06-16 14:26:57,489 [INFO]   ✅ Email encontrado: comercialhoteles@hoteleslasolas.com.co
+2026-06-16 14:26:59,203 [INFO] [128/170] Inversiones Leugros Sa Hotel Parque 97 Suites (Bogota) → https://www.bbva.com/es/salud-financiera/que-son-las-inversiones-financieras-y-que-tipos-existen/
+2026-06-16 14:27:03,506 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:06,802 [INFO] [129/170] Hampton by Hilton Barranquilla (Barranquilla) → https://www.hilton.com/en/hotels/baqhxhx-hampton-barranquilla/?SEO_id=GMB-AMER-HX-BAQHXHX&y_source=1_MTMyNjA3MzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+2026-06-16 14:27:13,496 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:16,272 [INFO] [130/170] Holiday Inn Express Barranquilla Buenavista (Barranquilla) → https://www.ihg.com/holidayinnexpress/hotels/us/en/barranquilla/baqex/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-CO-_-BAQEX
+2026-06-16 14:27:16,923 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:19,110 [INFO] [131/170] Faranda Collection Barranquilla, a member of Radisson Individuals (Barranquilla) → https://www.choicehotels.com/colombia/barranquilla/radisson-individuals-hotels/cb016?mc=llgoxxpx
+2026-06-16 14:27:19,111 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:21,366 [INFO] [132/170] Howard Johnson by Wyndham Barranquilla Versalles (Barranquilla) → https://www.wyndhamhotels.com/es-xl/hojo/barranquilla-colombia/howard-johnson-hotel-versalles-barranquilla/overview?CID=LC:q68ryvg9cq3avi8:37136&iata=00093796
+2026-06-16 14:27:21,367 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:23,442 [INFO] [133/170] Hilton Garden Inn Barranquilla (Barranquilla) → https://www.hilton.com/en/hotels/baqacgi-hilton-garden-inn-barranquilla/?SEO_id=GMB-AMER-GI-BAQACGI&y_source=1_MTIxNjk0OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+2026-06-16 14:27:23,621 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:26,217 [INFO] [134/170] Four Points by Sheraton Barranquilla (Barranquilla) → https://www.marriott.com/en-us/hotels/baqfp-four-points-barranquilla/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+2026-06-16 14:27:36,648 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:39,415 [INFO] [135/170] Crowne Plaza - Barranquilla (Barranquilla) → https://www.ihg.com/crowneplaza/hotels/us/en/barranquilla/baqbc/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-CO-_-BAQBC
+2026-06-16 14:27:39,837 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:41,384 [INFO] [136/170] Ayenda 1315 Candiac (Barranquilla) → https://ayenda.com/co/hoteles/barranquilla/ayenda-1315-candiac?utm_source=google_business&utm_medium=organic
+2026-06-16 14:27:41,385 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:44,015 [INFO] [137/170] Hotel Caribe 79 (Barranquilla) → https://hotelcaribe79.com/
+2026-06-16 14:27:45,062 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:47,343 [INFO] [138/170] Wyndham Garden Barranquilla (Barranquilla) → https://www.wyndhamhotels.com/es-xl/wyndham-garden/barranquilla-colombia/wyndham-garden-barranquilla/overview?CID=LC:46q62bu8edfbx3y:48626&iata=00093796
+2026-06-16 14:27:47,344 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:49,612 [INFO] [139/170] Ayenda 1313 Barahona 72 (Barranquilla) → https://ayenda.com/co/hoteles/barranquilla/ayenda-1313-barahona-72??utm_source=google_business&utm_medium=organic
+2026-06-16 14:27:49,612 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:51,283 [INFO] [140/170] Hotel NH Collection Barranquilla Smartsuites Royal (Barranquilla) → https://www.nh-hotels.com/en/hotel/nh-collection-barranquilla-smartsuites-royal?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb
+2026-06-16 14:27:51,284 [INFO]   ❌ No se encontró email
+2026-06-16 14:27:53,713 [INFO] [141/170] Grand Hyatt | Bogotá (Bogota) → https://www.hyatt.com/grand-hyatt/en-US/boggh-grand-hyatt-bogota?src=corp_lclb_google_seo_boggh&utm_source=google&utm_medium=organic&utm_campaign=lmr
+2026-06-16 14:27:54,612 [INFO]   ❌ No se encontró email
+2026-06-16 14:43:23,225 [INFO] [142/170] EXPOSTAY HOTEL CORFERIAS, BOGOTA (Bogota) → http://www.expostayhotel.com/
+2026-06-16 14:43:32,711 [INFO]   ❌ No se encontró email
+2026-06-16 14:43:34,532 [INFO] [143/170] Hospedaje Sary house (Bogota) → https://www.saryhouse.com/
+2026-06-16 14:43:38,422 [INFO]   ❌ No se encontró email
+2026-06-16 14:43:40,266 [INFO] [144/170] Bogota Marriott Hotel (Bogota) → https://www.marriott.com/en-us/hotels/bogmc-bogota-marriott-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+2026-06-16 14:43:41,582 [INFO]   ❌ No se encontró email
+2026-06-16 14:43:43,131 [INFO] [145/170] Yachi Hostel ye Kuyay (Bogota) → https://kuyay.co/
+2026-06-16 14:43:46,971 [INFO]   ❌ No se encontró email
+2026-06-16 14:43:48,678 [INFO] [146/170] Hostel Joy Calle 85 (Bogota) → https://hostalesjoy.com/
+2026-06-16 14:43:55,457 [INFO]   ❌ No se encontró email
+2026-06-16 14:43:57,070 [INFO] [147/170] Ayenda Hotel Las Palmas (Bogota) → https://ayenda.com/co/hoteles/bogota/ayenda-las-palmas?utm_source=google_business&utm_medium=organic
+2026-06-16 14:43:57,071 [INFO]   ❌ No se encontró email
+2026-06-16 14:44:00,021 [INFO] [148/170] Hoteles Bogotá Inn (Bogota) → http://www.hotelbogotainn.com/
+2026-06-16 14:44:03,640 [INFO]   ❌ No se encontró email
+2026-06-16 14:44:05,814 [INFO] [149/170] Usaquen Station Hostel (Bogota) → https://ais-pre-b6k7scb622lqfxltawxhnu-266237947041.us-west2.run.app/
+2026-06-16 14:59:43,270 [INFO]   ❌ No se encontró email
+2026-06-16 14:59:46,550 [INFO] [150/170] Estadía El Dorado (Bogota) → https://www.estadiaeldorado.co/
+2026-06-16 14:59:46,601 [INFO]   ❌ No se encontró email
+2026-06-16 14:59:49,624 [INFO] [151/170] Masaya Hostel Bogotá (Bogota) → http://www.masaya-experience.com/originals/bogota/
+2026-06-16 14:59:56,016 [INFO]   ✅ Email encontrado: bogota@masaya-experience.com
+2026-06-16 14:59:58,573 [INFO] [152/170] Hotel Living 55 (Bogota) → https://www.hotelesgrace.com/hotel-living-55-2/
+2026-06-16 14:59:59,682 [INFO]   ❌ No se encontró email
+2026-06-16 15:00:01,980 [INFO] [153/170] Hemma ® Bogota Country Luxury Suites Hotel (Bogota) → https://hemmabogota.com/country/
+2026-06-16 15:00:03,505 [INFO]   ✅ Email encontrado: hemmasuites@gmail.com
+2026-06-16 15:00:05,487 [INFO] [154/170] Ayenda Gold House (Bogota) → https://ayenda.com/co/hoteles/bogota/ayenda-gold-house
+2026-06-16 15:00:05,487 [INFO]   ❌ No se encontró email
+2026-06-16 15:00:07,429 [INFO] [155/170] 82 Hostel Bogota (Bogota) → https://82hostel.com.co/
+2026-06-16 15:00:08,038 [INFO]   ❌ No se encontró email
+2026-06-16 15:00:10,960 [INFO] [156/170] Hotel Movich Buró 26 (Bogota) → https://www.movichhotels.com/bogota
+2026-06-16 15:00:10,961 [INFO]   ❌ No se encontró email
+2026-06-16 15:00:13,476 [INFO] [157/170] Lavid hotel palacio real (Bogota) → https://lavidhotelpalacio.com/
+2026-06-16 15:00:17,271 [INFO]   ❌ No se encontró email
+2026-06-16 15:00:18,896 [INFO] [158/170] Hotel B3 Virrey (Bogota) → https://hotelesb3.com/?partner=13437&utm_source=google&utm_medium=organic&utm_campaign=MyBusiness
+2026-06-16 15:07:12,950 [INFO]   ❌ No se encontró email
+2026-06-16 15:07:14,741 [INFO] [159/170] COSMOS 100 Hotel + Centro de Convenciones (Bogota) → http://cosmos100hotel.com/
+2026-06-16 15:07:20,887 [INFO]   ❌ No se encontró email
+2026-06-16 15:07:23,418 [INFO] [160/170] Wyndham Bogotá (Bogota) → https://www.wyndhamhotels.com/es-xl/wyndham/bogota-colombia/wyndham-bogota/overview?CID=LC:46q62bu8edfbx3y:42132&iata=00093796
+2026-06-16 15:07:23,418 [INFO]   ❌ No se encontró email
+2026-06-16 15:07:26,005 [INFO] [161/170] Hotel Factory Green Bogotá Occidente Calle 80 (Bogota) → https://www.hotelfactorygreen.com/
+2026-06-16 15:07:46,880 [INFO]   ❌ No se encontró email
+2026-06-16 15:07:48,721 [INFO] [162/170] Casa Bella Vista (Bogota) → https://app.otasync.me/engine/es/?property_code=NzUyMw&currency=COP&adults=2&children=0&dfrom=2025-02-24&dto=2025-02-25
+2026-06-16 15:07:50,210 [INFO]   ❌ No se encontró email
+2026-06-16 15:07:52,842 [INFO] [163/170] Hilton Bogotá (Bogota) → https://www.hilton.com/en/hotels/bogbchh-hilton-bogota/?SEO_id=GMB-AMER-HH-BOGBCHH&y_source=1_MTIxNjk0OTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+2026-06-16 15:07:53,604 [INFO]   ❌ No se encontró email
+2026-06-16 15:07:56,449 [INFO] [164/170] Hotel bh Usaquen (Bogota) → https://www.bhhoteles.com/bh-usaquen
+2026-06-16 15:07:57,207 [INFO]   ❌ No se encontró email
+2026-06-16 15:23:26,369 [INFO] [165/170] Hotel Fénix Real (Bogota) → http://engine.lobbypms.com/hotel-fenix-real
+2026-06-16 15:23:26,370 [INFO]   ❌ No se encontró email
+2026-06-16 15:23:28,287 [INFO] [166/170] Windsor House By GEH Suites (Bogota) → https://www.gehsuites.com/es/nuestros-hoteles/hotel-windsor-house
+2026-06-16 15:23:29,219 [INFO]   ✅ Email encontrado: reservas@gehsuites.com
+2026-06-16 15:23:32,431 [INFO] [167/170] Fairfield by Marriott Bogota Embajada (Bogota) → https://www.marriott.com/en-us/hotels/bogfi-fairfield-bogota-embajada/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+2026-06-16 15:23:48,291 [INFO]   ❌ No se encontró email
+2026-06-16 15:23:50,565 [INFO] [168/170] Hotel Cápsula Bogotá (Bogota) → https://hotelcapsula.com.co/
+2026-06-16 15:24:55,776 [INFO]   ❌ No se encontró email
+2026-06-16 15:24:57,466 [INFO] [169/170] Grace Chapinero (Bogota) → https://www.hotelesgrace.com/grace-chapinero/
+2026-06-16 15:24:58,376 [INFO]   ✅ Email encontrado: reservas@hotelesgrace.com
+2026-06-16 15:25:00,905 [INFO] [170/170] HOTEL EMBAJADA USA (Bogota) → http://www.hotelembajada.com/
+2026-06-16 15:25:01,673 [INFO]   ❌ No se encontró email
+2026-06-16 15:25:04,600 [INFO] 
+============================================================
+RESUMEN FINAL
+============================================================
+Total procesados : 170
+Emails encontrados: 34  (20.0%)
+Sin email         : 136
+Con errores       : 0
+============================================================
+

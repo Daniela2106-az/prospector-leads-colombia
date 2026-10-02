@@ -1,0 +1,203 @@
+
+============================================================
+RESUMEN FINAL - GOOGLE + FACEBOOK
+============================================================
+Total procesados   : 210
+Emails encontrados : 19
+Sin resultado      : 198
+============================================================
+
+
+DETALLE:
+✅ EMAIL [google_serp] | Hotel Yivinaca | recepcion@ailanticgadeihote.co.co
+❌ NADA | Hotel Catedral Inn B SAS | Barranquilla
+❌ NADA | Radisson Hotel Diamond Barranquilla | Barranquilla
+❌ NADA | Hotel Marcarí | Barranquilla
+❌ NADA | Hotel Boutique M | Barranquilla
+❌ NADA | Hotel Faranda Express Puerta del Sol Barranquilla, a member of Radisson Individuals | Barranquilla
+❌ NADA | Hotel Granada Inn Barranquilla | Barranquilla
+✅ EMAIL [ddg_site] | Amari Living Suites | aserrano@promperu.gob.pe
+❌ NADA | Holiday Inn Bogotá Aeropuerto | Bogota
+❌ NADA | Hotel Oceanía Bogotá - Museo | Bogota
+❌ NADA | Hotel Regina | Bogota
+❌ NADA | Hotel La Estación | Bogota
+❌ NADA | Hostal Pura Vida La 70 | Medellin
+❌ NADA | Aura Hotel | Medellin
+❌ NADA | Hotel Med Colombia | Medellin
+❌ NADA | Hotel Colombia Avenida | Medellin
+❌ NADA | Moore 45 Hotel | Medellin
+❌ NADA | Marquee Hotel | Medellin
+❌ NADA | Hotel Boutique Laureles Medellin (HBL) | Medellin
+❌ NADA | Hotel Torre Poblado | Medellin
+❌ NADA | Hotel Poblado Alejandria | Medellin
+❌ NADA | Gallery Hotel Medellín | Medellin
+❌ NADA | Hotel Boutique Laureles Home | Medellin
+❌ NADA | Rock Hostel Medellín | Medellin
+✅ EMAIL [google_serp] | Hotel Dorado La 70 | reservas@hoteldoradola70.com
+❌ NADA | Hotel Conquistadores Medellin | Medellin
+❌ NADA | Hotel 47 Medellin Street | Medellin
+❌ NADA | Primavera Hotel | Medellin
+❌ NADA | Hotel Asturias Medellin | Medellin
+❌ NADA | Mythical Hotel en Laureles - Medellin. | Medellin
+❌ NADA | Hotel Casa Santafé | Medellin
+❌ NADA | La Familia Hostel - Parque el Poblado | Medellin
+✅ EMAIL [ddg_site] | Europa Suites Medellin | enquiries@chips-ju.europa.eu
+❌ NADA | Vita Hotel Boutique | Medellin
+❌ NADA | Apparments Hotel Medellin | Medellin
+❌ NADA | Hotel Deinelis Inn Sas | Bosconia
+❌ NADA | Hoteles Estelar S A | Cali
+❌ NADA | Hotel Mesa De Los Santos S A S | Piedecuesta
+❌ NADA | Sociedad Hotelera Tequendama S A | Bogota
+❌ NADA | Compania Hotelera De Cartagena De Indias S A | Cartagena
+❌ NADA | Grupo Hotelero Mar Y Sol S A S | Cartagena
+❌ NADA | Industrial Hotelera Y Alimentos Sas Dialimentos Sas | Bogota
+❌ NADA | Inversiones Hoteleras Alamedas Y Compania Ltda | Monteria
+✅ EMAIL [ddg_site] | Accorhotels Colombia S A | nca@cacfp.org
+❌ NADA | Sociedad Hotelera Cien Internacional S A | Bogota
+❌ NADA | Hoteles De Lujo S A S | Medellin
+❌ NADA | Operadora Hoteles Alko S A S | Cali
+❌ NADA | Chapter Hotels Sas | Medellin
+❌ NADA | Inversiones Hoteleras Wg Cartagena S A S | Cartagena
+❌ NADA | Cia Hotelera Andes Plaza S A S | Bogota
+❌ NADA | Atton Hoteles Colombia S A S | Bogota
+❌ NADA | Inversiones Hoteleras Hotbog Sucursal Colombia | Bogota
+❌ NADA | Bonsol Hotels Gestion Colombia S A S | Medellin
+❌ NADA | Bantu Hotel S A S | Cartagena
+❌ NADA | Sociedad Hotelera Los Balsos S A S | Medellin
+❌ NADA | Promotora Hoteles Uraba S A S | Apartado
+❌ NADA | Six Continents Hotels De Colombia S A | Envigado
+❌ NADA | De Provincia Hoteles S A S | Medellin
+❌ NADA | Inversiones Leugros Sa Hotel Parque 97 Suites | Bogota
+❌ NADA | Suites 98 Sas | Bogota
+❌ NADA | Servicios Hoteleros La Gran Via S A S | Cartagena
+❌ NADA | Condominio Mendihuaca Caribbean Resort | Santa Marta
+❌ NADA | The Journey Hostel S A S | Santa Marta
+❌ NADA | Operador Hotelero Cali S A S | Bogota
+❌ NADA | Sociedad Hotelera San Pablo S A S | Bogota
+❌ NADA | Inversiones Hoteleras Los Sauces S A S | Medellin
+✅ EMAIL [ddg_site] | O M Hoteles Operadores Hoteleros Ltda | biblioteca@rae.es
+❌ NADA | Holiday Inn Express Barranquilla Buenavista | Barranquilla
+❌ NADA | Faranda Collection Barranquilla, a member of Radisson Individuals | Barranquilla
+❌ NADA | Howard Johnson by Wyndham Barranquilla Versalles | Barranquilla
+❌ NADA | Hilton Garden Inn Barranquilla | Barranquilla
+❌ NADA | Four Points by Sheraton Barranquilla | Barranquilla
+❌ NADA | Crowne Plaza - Barranquilla | Barranquilla
+❌ NADA | Ayenda 1315 Candiac | Barranquilla
+❌ NADA | Ayenda 1313 Barahona 72 | Barranquilla
+❌ NADA | Hotel NH Collection Barranquilla Smartsuites Royal | Barranquilla
+✅ EMAIL [ddg_site] | Grand Hyatt | Bogotá | info@grandstorespr.com
+❌ NADA | EXPOSTAY HOTEL CORFERIAS, BOGOTA | Bogota
+❌ NADA | Hospedaje Sary house | Bogota
+❌ NADA | Bogota Marriott Hotel | Bogota
+❌ NADA | Yachi Hostel ye Kuyay | Bogota
+❌ NADA | Ayenda Hotel Las Palmas | Bogota
+❌ NADA | Hoteles Bogotá Inn | Bogota
+❌ NADA | Estadía El Dorado | Bogota
+❌ NADA | Hotel Living 55 | Bogota
+❌ NADA | Ayenda Gold House | Bogota
+❌ NADA | Lavid hotel palacio real | Bogota
+❌ NADA | Hotel B3 Virrey | Bogota
+❌ NADA | Casa Bella Vista | Bogota
+❌ NADA | Hilton Bogotá | Bogota
+❌ NADA | Hotel bh Usaquen | Bogota
+❌ NADA | Hotel Fénix Real | Bogota
+❌ NADA | Hotel Cápsula Bogotá | Bogota
+❌ NADA | Hotel Suites Caribe | Barranquilla
+❌ NADA | HOTEL MANZUR | Barranquilla
+❌ NADA | Hotel Golden House | Barranquilla
+❌ NADA | Hotel Fontamar 72 | Barranquilla
+❌ NADA | Hotel Estefanía Princess 84 | Barranquilla
+❌ NADA | Hotel San Marcos | Barranquilla
+❌ NADA | TARENTO Suite HOTEL | Barranquilla
+❌ NADA | Hotel Home Buenavista | Barranquilla
+❌ NADA | HOTEL BARRANQUILLA INN | Barranquilla
+❌ NADA | Hotel Altos del Prado | Barranquilla
+❌ NADA | Hotel Georgina | Barranquilla
+❌ NADA | Hotel Boston Superior Barranquilla | Barranquilla
+✅ EMAIL [ddg_site] | Apartahotel Eslait | servicioalcliente@apartahotellasvioletas.com
+❌ NADA | Hotel Prado 72 | Barranquilla
+❌ NADA | Hostal El Recreo | Barranquilla
+❌ NADA | THE MENDOZA GRAND HOTEL | Barranquilla
+❌ NADA | Hospedaje Altamira | Barranquilla
+❌ NADA | Hotel Prado Real Barranquilla | Barranquilla
+❌ NADA | Apartahotel BAQ suite 44 | Barranquilla
+❌ NADA | italia boutique bq | Barranquilla
+❌ NADA | Hostal La Quinta Bacana | Barranquilla
+❌ NADA | Bababuy Hostel | Bogota
+❌ NADA | Apartahotel Victoria In | Bogota
+❌ NADA | 61Prado Hotel | Medellin
+❌ NADA | Hotel 79 Poblado | Medellin
+❌ NADA | Noah boutique hostels Medellin | Medellin
+❌ NADA | hostal lleras calle 8 | Medellin
+❌ NADA | Brána Hotel | Medellin
+❌ NADA | Hotel San Jose | Medellin
+❌ NADA | Hotel Stanza Medellin | Medellin
+❌ NADA | HOTEL Country | Medellin
+❌ NADA | Tour Vacation Hoteles Azul S A S Bic | Bogota D C
+❌ NADA | Hoteles Royal S A | Bogota
+❌ NADA | C B Hoteles Y Resorts S A | Santa Marta
+❌ NADA | Gestora Hotelera Bahia La Rada S A S | Monteria
+✅ EMAIL [ddg_site] | Hoteles Cacique Internacional S A S | info@trivago.es
+❌ NADA | Hotel Casablanca San Andres S A S | San Andres
+❌ NADA | Hoteles Ms S A S | Cali
+❌ NADA | Hotel Calle 90 S A S | Bogota
+❌ NADA | Oxohotel Waya Wuajira Sas | Albania
+❌ NADA | Hotel Gran Marina S A S | Santa Marta
+❌ NADA | Poblado Hoteles S A | Medellin
+❌ NADA | Hotel Lagoon S A S | Rionegro
+❌ NADA | Inversiones Hoteleras Y Servicios Logisticos Ihl S A S | Sitionuevo
+❌ NADA | Hotel Casa Lola S A S | Cartagena
+❌ NADA | Hotel Maguipi S A S | Buenaventura
+❌ NADA | Hoteles B3 Corp Colombia | Bogota
+❌ NADA | Hotel Sabaneta Medellin S A S | Sabaneta
+❌ NADA | Samarii Resort Hotel Sas | Villagarzon
+❌ NADA | Hotel Calle 94 S A S | Bogota
+❌ NADA | Hotel Poblado Alejandria S A S | Medellin
+✅ EMAIL [ddg_site] | Buendia Hotel Sas | ivan@gameleap.com
+❌ NADA | Hoteles De Los Heroes S A | Cota
+❌ NADA | Hotel Vizcaya Real Sociedad Por Acciones Simplificada | Cali
+❌ NADA | Villeta Resort Hotel Ltda | Villeta
+❌ NADA | Econo Hotel Group S A S | Cartagena
+❌ NADA | Hoteles Y Turismo S A S | Cartagena
+❌ NADA | Hoteles Porton S A | Bogota
+❌ NADA | Qp Hoteles S A S | Cali
+❌ NADA | Innova Ideas Y Proyectos Sas | Bogota
+❌ NADA | Blue Suites Hotel S A | Bogota
+❌ NADA | Los Patios Hostal Boutique S A S | Medellin
+❌ NADA | Hotel Puerta Del Sol S A S | Barranquilla
+❌ NADA | Hotel Campestre El Campanario Ltda | Villavicencio
+❌ NADA | Hotel Chicala S A S | Bogota
+❌ NADA | Hoteles Gps S A S | Cali
+❌ NADA | Hotel Sicarare S A S | Valledupar
+❌ NADA | Administradora De Hoteles G M H S A | Santa Marta
+❌ NADA | Hotel Turismo Sin Fronteras S A S | Cucuta
+❌ NADA | Ecolodge El Almejal S A S | Medellin
+✅ EMAIL [ddg_site] | Inversiones Y Proyecciones Posada Hernandez S A S | hkgeneral@bbva.com
+❌ NADA | Organizacion Hotelera Arcos Y Compania S A S | Cucuta
+❌ NADA | Compania Turistica Y Hotelera S A S | Girardot
+❌ NADA | Hotel Nido De Loros Sas | Medellin
+❌ NADA | Hotel Laureles Plaza S A S | Medellin
+❌ NADA | Awia Lodge & Camp Sas | Medellin
+❌ NADA | Operadora Hotelera San Pedro Del Fuerte S A S | Medellin
+❌ NADA | Hostal barrio abajo | Barranquilla
+❌ NADA | Ayenda Brisas Del Río | Barranquilla
+❌ NADA | La Quinta Bacana La Campiña | Barranquilla
+✅ EMAIL [ddg_site] | CASA TROPICALIA HOSTEL | info@inmueblessv.com
+❌ NADA | Sun suite | Barranquilla
+❌ NADA | Cecil Aparta Estudios | Barranquilla
+❌ NADA | Aerosuites Silver | Bogota
+❌ NADA | HOTEL EL SOL BOGOTA | Bogota
+❌ NADA | Noah Boutique Hostels Bogota | Bogota
+❌ NADA | Ferias Park Hotel, Bogota | Bogota
+❌ NADA | North House Hostel | Bogota
+❌ NADA | Hotel Bogotá House | Bogota
+❌ NADA | Niza Colonial | Bogota
+❌ NADA | STAY IN BOGOTÁ | Bogota
+❌ NADA | Hotel Casa La Riviera | Bogota
+❌ NADA | Hotel Nuevo Siboney | Bogota
+❌ NADA | Hotel Ariston Embassy | Bogota
+❌ NADA | HOTEL RADEL SUPERIOR | Bogota
+❌ NADA | Embassy On Holidays | Bogota
+❌ NADA | Hotel Bogotá Airport Dorado | Bogota
+❌ NADA | Apartahotel Barú - Usaquén | Bogota
+❌ NADA | Casa Quinta Hotel Embajada | Bogota

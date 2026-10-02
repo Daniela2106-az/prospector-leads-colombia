@@ -1,0 +1,6 @@
+2026-07-08 16:12:24,443 [INFO] ====== WebDriver manager ======
+2026-07-08 16:12:25,103 [INFO] Driver [/Users/danielaamaya/.wdm/drivers/chromedriver/mac-arm64/150.0.7871.49/chromedriver-mac-arm64/chromedriver] found in cache by browser version
+2026-07-08 16:12:27,831 [INFO] 🌐 Abriendo Instagram...
+2026-07-08 16:13:22,849 [INFO] 📸 Guardando cookies...
+2026-07-08 16:13:22,860 [INFO] ✅ Cookies guardadas en instagram_cookies.json
+2026-07-08 16:13:23,038 [ERROR] ❌ Error cargando sesión: 'list' object has no attribute 'get'
