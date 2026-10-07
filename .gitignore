@@ -1,0 +1,34 @@
+# Credenciales y secretos
+.env
+.env.*
+!.env.example
+*cookies*.json
+
+# Bases de datos
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs, checkpoints y reportes generados
+*.log
+checkpoint_*.json
+reporte_*.txt
+prospectos_export.json
+reporte_final_hoteles.xlsx
+
+# Respaldos
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE y sistema
+.idea/
+.vscode/
+.DS_Store
+
+# Datos locales
+data/

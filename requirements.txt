@@ -1,0 +1,13 @@
+selenium
+webdriver-manager
+playwright
+requests
+beautifulsoup4
+lxml
+urllib3
+duckduckgo-search
+ddgs
+geopy
+pandas
+openpyxl
+python-dotenv
